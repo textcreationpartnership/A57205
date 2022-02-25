@@ -1,0 +1,3141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jeremiah's contemplations on Jeremiah's lamentations, or, Englands miseries matcht with Sions elegies being described and unfolded in five ensuing sceanes / by Jeremiah Rich.</title>
+            <author>Rich, Jeremiah, d. 1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57205</idno>
+            <idno type="STC">Wing R1342</idno>
+            <idno type="STC">ESTC R28101</idno>
+            <idno type="EEBO-CITATION">10409710</idno>
+            <idno type="OCLC">ocm 10409710</idno>
+            <idno type="VID">44961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1389:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jeremiah's contemplations on Jeremiah's lamentations, or, Englands miseries matcht with Sions elegies being described and unfolded in five ensuing sceanes / by Jeremiah Rich.</title>
+                  <author>Rich, Jeremiah, d. 1660?</author>
+               </titleStmt>
+               <extent>[8], 83 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Stevenson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44961:1" rendition="simple:additions"/>
+            <p>
+               <hi>Jeremiah's</hi> CONTEMPLATIONS On <hi>Jeremiah's</hi> LAMENTATIONS: <hi>OR,</hi> ENGLANDS Miſeries matcht with SIONS Elegies.</p>
+            <p>
+               <hi>Being</hi> Deſcribed and unfolded in five enſuing Sceanes;</p>
+            <p>By JEREMIAH RICH, Student.</p>
+            <q>
+               <bibl>
+                  <hi>JOB 22. v. 21.</hi>
+               </bibl>
+               <p>Acquaint thy ſelfe with God, and be at peace, thereby good ſhall come unto thee.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for JOHN STEVENSON, and are to be ſold at his ſhop, at the Sunne below <hi>Ludgate</hi> Hill. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44961:2"/>
+            <pb facs="tcp:44961:2"/>
+            <head>TO THE RIGHT Honourable, ELIANOR RICH, Counteſſe of <hi>Suſsex</hi> and <hi>Warwick,</hi> Vicounteſſe Baroneſſe <hi>Fitzwalter,</hi> Lady <hi>Egremond, Burmel, Mortimer,</hi> and <hi>Leez,</hi> Beloved Conſort to the Right Honorable, <hi>Robert,</hi> Earle of <hi>Warwick,</hi> Baron of <hi>Leez,</hi> and Lord High Admirall of <hi>England:</hi> JEREMIAH RICH <hi>wiſheth health here, and happineſſe hereafter.</hi>
+            </head>
+            <p>HAving (moſt Honoured Lady) peruſed the <hi>Lamentations</hi> of <hi>Jeremiah,</hi> I found them ſuta<g ref="char:EOLhyphen"/>ble to the Complaints of <hi>England;</hi> and when I called to minde, that theſe two Ladies, <hi>Iſrael</hi> and <hi>England,</hi> were the Darlings of God, the Daughters of
+<pb facs="tcp:44961:3"/>Heaven, the Wonder of the Earth, and yet the Envie of the World; and then beheld them in the bitterneſſe of Sorrow, and in their ſilent ſadneſſe, deſpiſed, diſ<g ref="char:EOLhyphen"/>graced, rejected, depopulated, diſtracted, and abuſed; I could not chuſe but ſome<g ref="char:EOLhyphen"/>times bathe my Subject with my Teares, and following the preſident of the ſad Prophet, wiſh, <hi>that mine eyes were Rivers of Waters, that I might weepe day and night for the ſlaine of the Daughter of my people:</hi> In<g ref="char:EOLhyphen"/>deed, <hi>Iſrael</hi> was elder in Joy, and <hi>Eng<g ref="char:EOLhyphen"/>land</hi> younger in Sorrow; the Warres of <hi>Iſrael</hi> was farther from our apprehenſi<g ref="char:EOLhyphen"/>on, the Woes of <hi>England</hi> neerer us in relation: And who that ſees her ſeque<g ref="char:EOLhyphen"/>ſtred Husband, her diſobedient Chil<g ref="char:EOLhyphen"/>dren, her frowning Brethren, her bow<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:44961:3"/>Battlements, her weakened Bul<g ref="char:EOLhyphen"/>warkes, her numerous Enemies, and di<g ref="char:EOLhyphen"/>vided Armies, but will ſay, <hi>The glory of</hi> England <hi>is departed?</hi> But it is not ſo: for through the Gate of Mercie wee may eſpie a Doore of Hope; I rather take theſe Diviſions for a Purge, that will purifie; or a Qualme, that will qualifie; or an Antidote, to expell Poyſon; and the darke Cloud of <hi>Englands</hi> Warre, to be a ſhort Thunder-clap, to cleare the cor<g ref="char:EOLhyphen"/>rupted Ayre,</p>
+            <p>Madame, theſe <hi>Contemplations</hi> are ſad, yet Divine; as Divine, fit for all times; and as ſad, onely fit for theſe.</p>
+            <p>When I firſt compoſed them in Mea<g ref="char:EOLhyphen"/>ſure, I intended them for my private
+<pb facs="tcp:44961:4"/>Solace; but through the importunitie of ſome (whom Nature hath bound me to obey) I have committed them now to publike Cenſure, which I muſt expect to be hard enough; yet farre more charitable, if they flye through the world under the ſhadow of your Honours wings.</p>
+            <p>Theſe (Honourable Lady) are the Firſt-Fruits of my Poetrie (either Morall or Divine) which I humbly offer to your Honour: To commend them, I cannot; and diſcommend them, I will not: Few will denie the good<g ref="char:EOLhyphen"/>neſſe of the Subject, though many may carpe at the Object; and theſe will onely be the Scholars of <hi>Zoylus,</hi> who finde fault with all things, yet can mend no<g ref="char:EOLhyphen"/>thing.</p>
+            <pb facs="tcp:44961:4"/>
+            <p>Thinke it not preſumption (my Ho<g ref="char:EOLhyphen"/>noured Ladie) that I have intruded ſo farre upon your Goodneſſe, in pre<g ref="char:EOLhyphen"/>ſenting ſo unworthie an Offering; and let the Error conſume in his Zeale, who is no leſſe, nor can begge to be any more, then your Honours ſer<g ref="char:EOLhyphen"/>vant,</p>
+            <closer>
+               <signed>JEREMIAH RICH.</signed>
+            </closer>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:44961:5"/>
+            <head>TO THE READER.</head>
+            <p>THe orient luſtre of Vertue ſhineth through the interpoſing Cloud of Envie, and Love laſheth Malice ſome<g ref="char:EOLhyphen"/>times with Rods of Roſes. This little <hi>Ma<g ref="char:EOLhyphen"/>nuel</hi> (deare Reader) may keepe thee from future falls, and guard thee from preſent feares. It may be a Glaſſe for thine eye, a Lanthorne for thy foot, a Weapon for thine hand, a Curb for thy tongue, and a Preſident for thy Pen. If by any thing here thou gai<g ref="char:EOLhyphen"/>neſt profit, lay its memoriall foundation in a building of practice: And if thine eye be<g ref="char:EOLhyphen"/>hold an Error, rebuke me ſilently, and in<g ref="char:EOLhyphen"/>terre it in the ſepulchre of Oblivion. I ſay no more, but wiſh thee all perfection in peruſing, underſtanding in the reading, and charitie in the judging of theſe five Sceanes, which at leaſt was intended well by him who is at thy ſervice,</p>
+            <closer>
+               <signed>JEREMIAH RICH</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:44961:5"/>
+            <head>To his Friend JEREMIAH RICH, Upon his <hi>Contemplations.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>RICH,</hi> to thy prayſe, thou art enricht with wit</l>
+               <l>Beyond thy yeares; thy friends are proud of it.</l>
+               <l>I've read thy <hi>Contemplations,</hi> and admire</l>
+               <l>That Youth unto ſuch Gravitie ſhould aspire.</l>
+               <l>The holy Prophet, with inspired skill,</l>
+               <l>Penſil'd the Funerall Song of <hi>Iſrael,</hi>
+               </l>
+               <l>And thy laborious Pen hath here deſcri'd</l>
+               <l>The feares of <hi>England</hi> for her former Pride;</l>
+               <l>Thou haſt not laſht the Errors of this Age</l>
+               <l>With fained Dreames on the vain-glorious Stage,</l>
+               <l>But in a holy, milde, and gentle ſtile</l>
+               <l>Lamenteſt the Tranſgreſſions of this Ile.</l>
+               <l>Goe on to write, and wee'l not ceaſe to prayſe,</l>
+               <l>And to the higheſt pitch thy Merits ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe:</l>
+               <l>Such honour as the antient <hi>Romans</hi> gave</l>
+               <l>To their admired Poets, thou ſhalt have;</l>
+               <l>We will, in ſigne of thy deſerv'd renowne,</l>
+               <l>Impale thy Temples with a Lawrell Crowne.</l>
+            </lg>
+            <closer>
+               <signed>ROBERT SLATER.</signed>
+            </closer>
+         </div>
+         <div type="introductory_poem">
+            <pb facs="tcp:44961:6"/>
+            <head>The Authors Entertainment.</head>
+            <lg>
+               <l>'TWere folly to diſgrace, or elſe commend</l>
+               <l>This Booke; Oh Reader, if thou art my friend,</l>
+               <l>It is enough: and wherefore then ſhould I</l>
+               <l>Set a dull Candle to thy darkned eye,</l>
+               <l>Untill the day appeare, but that thy ſight</l>
+               <l>Would be amazed with that glorious light</l>
+               <l>That ſhines in midſt of darkneſſe, leſt it riſe</l>
+               <l>Too ſoone, and quickly dim thy darkned eyes?</l>
+               <l>Now, if this Candle falter in its glory,</l>
+               <l>Blame me, not that Coleſtiall Story</l>
+               <l>That was my Subject; for too bright a day</l>
+               <l>May cauſe a Travailer to loſe his way:</l>
+               <l>But if to guide your feet this Candle ſhine,</l>
+               <l>Mine is the labour, but the gaine is thine.</l>
+               <l>Goe on then, Reader, reade and underſtand,</l>
+               <l>And may thy heart be bett'red by my hand</l>
+               <l>To all Eternitie, and let it be</l>
+               <l>The Epilogue of <hi>Englands</hi> Tragedie:</l>
+               <l>And ſo adue; yet thus much I make knowne,</l>
+               <l>Reade it to purpoſe, or let it alone.</l>
+            </lg>
+            <closer>
+               <salute>Farwell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44961:6"/>
+            <head>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+                  <head>Iohn Aston</head>
+               </figure> Jeremiah's <hi>CONTEMPLATIONS UPON</hi> Jeremiah's <hi>LAMENTATIONS.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <lg>
+                  <head>
+                     <hi>Verſe</hi> 1.</head>
+                  <l>HOw ſad doth <hi>Sion</hi> ſit? how doth ſhe hide</l>
+                  <l>Her face in mourning? Like a forlorne Bride</l>
+                  <l>Whoſe husband is departed, when deaths charms</l>
+                  <l>Doth ſeperate Lovers from each others armes;</l>
+                  <l>How doth ſhe weep? the famous City now</l>
+                  <l>Is weake and deſolate, her Bulworkes bow</l>
+                  <l>Their proud imperious necks to the vaine glory</l>
+                  <l>Of the proud Enemy, and is tributory.</l>
+               </lg>
+               <pb n="2" facs="tcp:44961:7"/>
+               <lg>
+                  <head>(2)</head>
+                  <l>Her lovely cheeks, and her inchanting eie,</l>
+                  <l>Where ſat inthron'd a Princely Majeſtie,</l>
+                  <l>Are bath'd in ſilent ſtreames of flowing feares,</l>
+                  <l>As if ſhee'd make them lovely with her teares:</l>
+                  <l>Among her amorous Lovers there are none</l>
+                  <l>Can give her comfort, but increaſe her moane;</l>
+                  <l>Nay all her Lovers they forſake her too,</l>
+                  <l>And doe as all diſſemblers uſe to doe.</l>
+               </lg>
+               <lg>
+                  <head>(3)</head>
+                  <l>Victorious <hi>Judah</hi> ſhe doth priſoner lye,</l>
+                  <l>Fetter'd in chaines, in ſtrong captivity;</l>
+                  <l>Againſt the priſoners cry ſhe ſtopt her cares;</l>
+                  <l>And now the rampant Lion's full of feares:</l>
+                  <l>Now glorious <hi>Judah,</hi> ſhe that bore the bell</l>
+                  <l>From the twelve Tribes of warlike <hi>Iſraell,</hi>
+                  </l>
+                  <l>Now dwels among the heathen: and the head</l>
+                  <l>Of Kingly <hi>Sion</hi> is diſhonoured.</l>
+               </lg>
+               <lg>
+                  <head>(4)</head>
+                  <l>Thoſe fragrant walkes, and thoſe alluring wayes,</l>
+                  <l>Do ſeeme to mourne, becauſe no mirth, nor prayſe,</l>
+                  <l>No Feaſt, nor Sacrifice is in her gate.</l>
+                  <l>Ah! lovely Land, how art thou deſolate!</l>
+                  <l>The holy Prieſt with teare bedewed eyes</l>
+                  <l>Laments and ſighs: the maidens Lover dyes,</l>
+                  <l>And now poore <hi>Sion</hi> muſt her boddy dreſſe,</l>
+                  <l>In darke, in diſmall, mournfull heavines.</l>
+               </lg>
+               <pb n="3" facs="tcp:44961:7"/>
+               <lg>
+                  <head>(5)</head>
+                  <l>Her thundring Foes are lofty, they are high</l>
+                  <l>That are the Actors of her Tragedy;</l>
+                  <l>Her Pride and Inſolence firſt brought this Rod,</l>
+                  <l>Nor is it more then juſt that Iſraels God</l>
+                  <l>Should ſometimes laſh his owne: ſince their owne Crimes</l>
+                  <l>Spurr'd on their ruine to theſe diſmall Times.</l>
+                  <l>The Fathers ſins have wrought the Childrens woe:</l>
+                  <l>The Childrens griefe the Fathers overthrow.</l>
+               </lg>
+               <lg>
+                  <head>(6)</head>
+                  <l>That lovely beauty which did often ſhine</l>
+                  <l>More glorious than the day with grace divine:</l>
+                  <l>Thoſe amorous glances once which had the art</l>
+                  <l>To blind the Lovers eye and ſteale his heart,</l>
+                  <l>Are now deformed; and the aſhy hand</l>
+                  <l>Of death hath ſpoyl'd the glory of the Land.</l>
+                  <l>The Royall Princes which poſſeſt the Throne</l>
+                  <l>Of Kingly Majeſty are fled and gone.</l>
+               </lg>
+               <lg>
+                  <head>(7)</head>
+                  <l>Now ſad <hi>Jeruſalem</hi> ſits and calls to mind</l>
+                  <l>All her Rebellion: Ah ſhe was unkind</l>
+                  <l>To ſin againſt her Lord, who checked Kings</l>
+                  <l>For <hi>Sions</hi> ſake, and gave her pleaſant things;</l>
+                  <l>Had ſhe but clave to him, as he was juſt,</l>
+                  <l>Shee had not laid her honour in the duſt;</l>
+                  <l>Nor been a ſcorne for fooles which ſometimes ſay,</l>
+                  <l>What gained Iſraell by the Sabbath day?</l>
+               </lg>
+               <pb n="4" facs="tcp:44961:8"/>
+               <lg>
+                  <head>(8)</head>
+                  <l>And wonder not <hi>Jeruſalem</hi> is ſo mockt</l>
+                  <l>Of all that hate her; for her ſins have rockt</l>
+                  <l>Her ſenſes to a ſlumber, none do ſhow</l>
+                  <l>The ſad approaching of her overthrow;</l>
+                  <l>The lovely City now they much deſpiſe,</l>
+                  <l>Who ſometimes honoured her, their lofty eyes</l>
+                  <l>Looke ſcornefull one her in her miſery; thus</l>
+                  <l>That face is loath'd that was ſo amorous.</l>
+               </lg>
+               <lg>
+                  <head>(9)</head>
+                  <l>Her ſhame lies hid to none both foe and friend,</l>
+                  <l>Yet ſhe remembred not her latter end,</l>
+                  <l>Therefore her fall was wondrous ſudden; oh</l>
+                  <l>Why went poore <hi>Sion</hi> ſlumbring to her woe?</l>
+                  <l>And who ſhall comfort poore <hi>Jeruſalem</hi> now?</l>
+                  <l>O glorious God looke on my miſeries, thou</l>
+                  <l>Art alſufficient, thou canſt blow aſide</l>
+                  <l>The hopes of Mortalls in their height of pride.</l>
+               </lg>
+               <lg>
+                  <head>(10)</head>
+                  <l>And now the furious Foe hath ſtretcht his hand</l>
+                  <l>On her rich Ornaments, and pleaſant Land:</l>
+                  <l>And 'cauſe he thought this not enough to do,</l>
+                  <l>Thy Sanctuary is polluted too:</l>
+                  <l>Although O Lord thou once didſt give command</l>
+                  <l>That no falſe ſtranger in a forreigne Land</l>
+                  <l>Should dare to come with his unhallowed eyes</l>
+                  <l>Where thine Annointed offer Sacrifice.</l>
+               </lg>
+               <pb n="5" facs="tcp:44961:8"/>
+               <lg>
+                  <head>(11)</head>
+                  <l>Ah me, who ſhall relieve me with ſome bread?</l>
+                  <l>Our hearts are faint with hunger, feare and dread</l>
+                  <l>Hath fill'd my tottering ſoule, where ſhall I flye</l>
+                  <l>That Famine finde me not and ſo I dye?</l>
+                  <l>My Garments, Jewels, Bracelets, and my Rings,</l>
+                  <l>Houſes, and Vineyards, all my pleaſant things</l>
+                  <l>I give for bread unto the angry foe;</l>
+                  <l>Thou ſeeſt O Lord our ſoules are wondrous low.</l>
+               </lg>
+               <lg>
+                  <head>(12)</head>
+                  <l>Looke backe ye travellers, O caſt your eye</l>
+                  <l>Ye wandring ſtrangers that are paſſing by;</l>
+                  <l>If you have any pitty come and ſee</l>
+                  <l>If any Nation were ſo low as me;</l>
+                  <l>What ſorrow is like mine? what ſufferings can</l>
+                  <l>Compare with <hi>Sions,</hi> that befalleth man?</l>
+                  <l>While the diſpleaſure of my angry God</l>
+                  <l>Sweeps off my glory with his laſhing Rod?</l>
+               </lg>
+               <lg>
+                  <head>(13)</head>
+                  <l>The burning fury of the high Jehove</l>
+                  <l>Makes faint my heart, his jealouſie above</l>
+                  <l>Prevailes againſt me, and I ſit in doubt</l>
+                  <l>How to get in his favour, or how out</l>
+                  <l>Of his diſpleaſure; ah there is a net</l>
+                  <l>Spread for my feet: a ſcorching furnace her</l>
+                  <l>To burne me from my droſſe, that I may be</l>
+                  <l>Refin'd from ſin, and Sathans Empery.</l>
+               </lg>
+               <pb n="6" facs="tcp:44961:9"/>
+               <lg>
+                  <head>(14)</head>
+                  <l>All my tranſgreſſious as a heavy yoake</l>
+                  <l>Are faſtened by his arme, and every ſtroake</l>
+                  <l>Is laid upon my neck: my heart is weake</l>
+                  <l>Since my accuſed ſoule thoſe Lawes did breako</l>
+                  <l>Which I was bound to keep; the Almighty hand</l>
+                  <l>Of Iſraels God hath waſted Iſraels Land;</l>
+                  <l>My glory is departed, and mine eyes</l>
+                  <l>Behold no meanes for ever to ariſe.</l>
+               </lg>
+               <lg>
+                  <head>(15)</head>
+                  <l>Thoſe mighty Warriers which did ſhelter round</l>
+                  <l>The Gates of <hi>Sion,</hi> whoſe brave deeds redound</l>
+                  <l>To Iſraels glory, and their Enemies wonder,</l>
+                  <l>Lie bleeding on the ground, and trodden under;</l>
+                  <l>The Lord hath call'd a counſell to conſound</l>
+                  <l>All <hi>Iudah's</hi> glory on the Crimſon ground;</l>
+                  <l>The bleeding bodies of the young men joyne,</l>
+                  <l>He trod them under as they tread the Vine.</l>
+               </lg>
+               <lg>
+                  <head>(16)</head>
+                  <l>For theſe things do I weepe, mine eye, mine eye,</l>
+                  <l>Doth waſh my Cheeckes; oh, what felicity</l>
+                  <l>Can ſad <hi>Ieruſalem</hi> have in theſe diaſters! nay,</l>
+                  <l>Thoſe that ſhould comfort me arefar away;</l>
+                  <l>My Land is deſolate, all my friends are laine</l>
+                  <l>In ſtrong Captivity, and my Children ſlaine:</l>
+                  <l>My God hath left me to the Enemies power,</l>
+                  <l>Ah, who will caſeme in this troubled houre?</l>
+               </lg>
+               <pb n="7" facs="tcp:44961:9"/>
+               <lg>
+                  <head>(17)</head>
+                  <l>Now lovely <hi>Sion</hi> ſits with ſilent moanes;</l>
+                  <l>She would implore ſome help by her deep groanes,</l>
+                  <l>Alas, but there is none; the furious Foe</l>
+                  <l>Deſireth nothing but her overthrow.</l>
+                  <l>The Lord hath lay'd a mighty ſiege about</l>
+                  <l>The Tents of Iacob: and ſhe ſits in doubt</l>
+                  <l>Of her deliverance, while her Foes deride</l>
+                  <l>And loath her Actions as a wanton Bride.</l>
+               </lg>
+               <lg>
+                  <head>(18)</head>
+                  <l>And yet our God is juſt and righteous too,</l>
+                  <l>Though ſad <hi>Ieruſalem</hi> knowes not what to do;</l>
+                  <l>The Royall City dow does mourne becauſe</l>
+                  <l>She oft rebell'd againſt his righteous Lawes.</l>
+                  <l>Ye neighbouring Nations that Spectatours be,</l>
+                  <l>That ſometimes looke upon my Tragedy,</l>
+                  <l>Behold my Virgins and my young men go</l>
+                  <l>To long Captivity and ling ring woe.</l>
+               </lg>
+               <lg>
+                  <head>(19)</head>
+                  <l>My deareſt lovers which ſhould have reliev'd me,</l>
+                  <l>As ſometimes Lovers do, they quite deceiv'd me;</l>
+                  <l>The Prieſt, and Elders both for hunger faile,</l>
+                  <l>Their lookes are wan, their countenance is pale,</l>
+                  <l>Their bodies weake, and giddy is their head,</l>
+                  <l>Their ſtrength does faile their wills for lack of bread;</l>
+                  <l>They ſeeke for food and find their labour vaine,</l>
+                  <l>Famine, and Death doth in the Kingdome raigne.</l>
+               </lg>
+               <pb n="8" facs="tcp:44961:10"/>
+               <lg>
+                  <head>(20)</head>
+                  <l>Yet O my Lord, how do my bowells yearne</l>
+                  <l>For mourning Iſrael, the Foes are ſtearne,</l>
+                  <l>My bowels ſwell, my heart is turned too</l>
+                  <l>With woe and griefe, what ſhall poore <hi>Sion</hi> do?</l>
+                  <l>How can <hi>Jeruſalems</hi> ſorrowes but poſſeſſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>My troubled ſoule with woe and heavineſſe?</l>
+                  <l>At home the Famine reignes, the people dye,</l>
+                  <l>Abroad the Sword doth compleat miſery.</l>
+               </lg>
+               <lg>
+                  <head>(21)</head>
+                  <l>
+                     <hi>Ieruſalem</hi> knowes I dayly fit and weep;</l>
+                  <l>Ah, had ſecurity nere lull'd aſleep</l>
+                  <l>This glorious Nation, earths admired prize,</l>
+                  <l>We ſhould not then have drencht our watry eyes</l>
+                  <l>In teares for Iſraels woe, nor been ſo ſad:</l>
+                  <l>But now our Enemies skoffe, our Foes are glad;</l>
+                  <l>Our Nation once was high and glorious,</l>
+                  <l>But now are poore; Lord make our Enemies thus.</l>
+               </lg>
+               <lg>
+                  <head>(22)</head>
+                  <l>Oh Lord let all their ſins come up to thee,</l>
+                  <l>And do to them as thou haſt done to me;</l>
+                  <l>Puffe all their glory out, and let them dye</l>
+                  <l>Like to falſe joy in midſt of miſerie;</l>
+                  <l>And let us be delivered by thy Will</l>
+                  <l>Though we have ſin'd and oft done wondrous ill;</l>
+                  <l>O heare my ſighs, do not forget my moanes,</l>
+                  <l>My <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eart is faint with oft repeated groanes.</l>
+               </lg>
+            </div>
+            <div n="1" type="contemplation">
+               <pb n="9" facs="tcp:44961:10"/>
+               <head>CONTEMPLATION.</head>
+               <lg>
+                  <l>ANd is it ſo? hath Iſraels God forſaken</l>
+                  <l>The Tents of Jacob? Is their Citie taken,</l>
+                  <l>And all their young men ſlaine? does the moſt high</l>
+                  <l>From his owne Iſrael turne back his eye?</l>
+                  <l>Does he withdraw himſelfe, and let the Foe</l>
+                  <l>To glory in poore Iſraels overthrow?</l>
+                  <l>Is <hi>Iudah</hi> ſpoyl'd, and do the Enemies ſwell,</l>
+                  <l>While their black Actions often proſper well?</l>
+                  <l>Does ſweet-fac'd <hi>Sion</hi> mourne? woe and alas,</l>
+                  <l>'Tis ſo indeed, how came theſe things to paſſe?</l>
+                  <l>Oh how mine eyes could ſend a floud of teares</l>
+                  <l>To waſh this Paper, while my deafened eares</l>
+                  <l>Are rouz'd with this allarum, which is hurld</l>
+                  <l>By heavens appointment through the circled world.</l>
+                  <l>But ſhall we thinke God is unjuſt in this,</l>
+                  <l>To ſcourge his Children if they do amiſſe?</l>
+                  <l>If the wide world had not ſome ſufferings, ſure</l>
+                  <l>The lives of Nations would be too ſecure;</l>
+                  <l>Yet heaven's not eaſily mov'd to ſend his Rod,</l>
+                  <l>'Twas Iſraels ſins offended Iſraels God.</l>
+                  <l>But if the beſt of Saints ſo ill do fare,</l>
+                  <l>Where ſhall the crue of damned Sinners ſhare</l>
+                  <l>But in eternall darkneſſe? whoſe black Tombe</l>
+                  <l>Shall ſcare the firſt, but give the laſt their doome.</l>
+                  <l>Go on then Sinners, plunder, kill, and ſpoile,</l>
+                  <l>Thoſe harmeleſſe Lambes, it is but for a while;</l>
+                  <l>The time is wondrons ſhort, this Inch of time</l>
+                  <l>Thou mayſt do much: thy ſwelling heart may clime</l>
+                  <l>Unto the top of envy, and it may</l>
+                  <l>Hazzard eternity in a ſhort lived day;</l>
+                  <pb n="10" facs="tcp:44961:11"/>
+                  <l>Perhaps a yeare may finiſh up thy Courſe,</l>
+                  <l>And then thou Son of Beliall death will force</l>
+                  <l>Thy ſoule to long eternity, and thou muſt thither;</l>
+                  <l>How will thy trembling knees then knock together</l>
+                  <l>When thou ſhalt know Death ſummons thee to dye,</l>
+                  <l>With thoughts of torment in Eternity?</l>
+                  <l>And laſt of all; Is mourning Iſraels Land</l>
+                  <l>So ſoone ſubdued by heavens immediate hand?</l>
+                  <l>Then let not <hi>England,</hi> though the beſt of three</l>
+                  <l>Diſtempered Lands, dreame of ſecurity.</l>
+                  <l>The Nations who poſſeſt the aforeſaid place,</l>
+                  <l>Had greater meaſure of Celeſtiall grace,</l>
+                  <l>And yet they were deſtroy'd; can there be peace</l>
+                  <l>In <hi>Englands</hi> Borders unleſſe ſin doth ceaſe?</l>
+                  <l>Turne to thy God O <hi>England,</hi> leſt his hand</l>
+                  <l>Doth overturne the glory of the Land.</l>
+                  <l>The black mouth'd Swearer, he doth rend in ſunder</l>
+                  <l>His Makers Name with Oaths like claps of thunder;</l>
+                  <l>The proud mans ſcornefull eye does hate to ſee</l>
+                  <l>His beggered Neighbour falne in miſery;</l>
+                  <l>The lives of Harlots in their capring Schooles</l>
+                  <l>Are kept by young men, Natures blinded Fooles;</l>
+                  <l>The covetous muckworme he himſelfe hath ſold</l>
+                  <l>To live in ſervice to the God of Gold;</l>
+                  <l>A little after comes his Son, and he</l>
+                  <l>Throwes all away in prodigality;</l>
+                  <l>Wonder of wonders, why's not <hi>Englands</hi> glory</l>
+                  <l>As dim as <hi>Sion's,</hi> made a bloudy Story</l>
+                  <l>For other Lands to read her downfall, why</l>
+                  <l>Doth ſin ſurvive and yet not <hi>England</hi> dye?</l>
+                  <l>Why is not <hi>London</hi> that was ſometimes famous</l>
+                  <l>To the wide Univerſe now held as hainous</l>
+                  <l>As was poore <hi>Sion?</hi> ah her ſins abound!</l>
+                  <l>Why dyed ſhe not when ſhe receiv'd a wound</l>
+                  <l>In the laſt fatall War? why has this place</l>
+                  <l>So much of bleſſing and ſo little grace?</l>
+                  <pb n="11" facs="tcp:44961:11"/>
+                  <l>Why doth not fier range in every ſtreet?</l>
+                  <l>Methinkes 'twere juſt that Sword and Famine meet,</l>
+                  <l>While War did tumble all our Bulworkes down,</l>
+                  <l>And ſtrangers get the glory of the Crowne.</l>
+                  <l>Indeed 'twere juſt it ſhould ſo, while that we</l>
+                  <l>Are lull'd aſleep in ſad ſecurity.</l>
+                  <l>The Prophet here laments, his weeping eyes</l>
+                  <l>Are waſht with teares, becauſe the miſeries</l>
+                  <l>Of <hi>Sion</hi> was approaching, often he</l>
+                  <l>Was bath'd in teares for their calamity;</l>
+                  <l>But we ſo far from pittying of our Land</l>
+                  <l>Thus ſunke in ſin, that with a mighty hand</l>
+                  <l>We adde unto her woe by ſin, and thinke</l>
+                  <l>The eye of heaven doth but ſit and winke.</l>
+                  <l>Oh glorious God, who art that holy one,</l>
+                  <l>Lovely in beauty; whoſe moſt royall Throne</l>
+                  <l>Is borne by winged Cherubins moſt high,</l>
+                  <l>Where mighty Angels praiſe thy Majeſtie;</l>
+                  <l>What is this microcoſmus? what are we</l>
+                  <l>That thou O Lord ſhouldſt take felicity</l>
+                  <l>In weake and feeble man, whoſe borrowed breath</l>
+                  <l>Doth every minute journey to his death?</l>
+                  <l>Why ſhouldſt thou labour with this peece of earth</l>
+                  <l>Thus to protect him whoſe abortive birth</l>
+                  <l>Doth but begin his woe; yet ſleeps ſecure?</l>
+                  <l>The Sun, the Moone, and Starres are too impure</l>
+                  <l>In thy moſt glorious eyes; then what is man</l>
+                  <l>But a deſerver of black Hellican.</l>
+                  <l>Yet oh our God which art the King of Kings,</l>
+                  <l>Lord of earths Territories, our pleaſant things</l>
+                  <l>Did all come downe from thee; <hi>England</hi> did flouriſh</l>
+                  <l>When thy Almighty Arme ſo long did nouriſh,</l>
+                  <l>And did ſo long protect us, death and feare</l>
+                  <l>Were ſtrangers to our Borders, we were deare</l>
+                  <l>In thy beloved eyes; but ah, our woe</l>
+                  <l>Was our rebelion, and our overthrow</l>
+                  <pb n="12" facs="tcp:44961:12"/>
+                  <l>Is from our ſelves; our blaſted Land had been</l>
+                  <l>Counted earths Paradiſe but that for ſin;</l>
+                  <l>Yet Lord unite the Kingdomes, let them be</l>
+                  <l>No more a Stage for that dull Tragedie</l>
+                  <l>We feare is yet to play; Let it once ceaſe,</l>
+                  <l>And ſound us now a harmony of peace;</l>
+                  <l>One Act is paſt along, oh let thy hand</l>
+                  <l>Give to the reſt a powerfull countermand,</l>
+                  <l>And let us now be lead by truth and love,</l>
+                  <l>Thoſe amorous Siſters which do dwell above;</l>
+                  <l>And in the Lawes of love, let <hi>Englands</hi> face,</l>
+                  <l>Be dreſt with ornaments of bluſhing grace;</l>
+                  <l>And then the laſt of our harmonious Sceanes</l>
+                  <l>Shall tell the world what 'tis the Goſpell meanes;</l>
+                  <l>Thoſe faithfull labourers in this Vineyard ſhall</l>
+                  <l>Advance the worke with hearts heroicall;</l>
+                  <l>The Epilogue is joy which ends the Play,</l>
+                  <l>The Church begins to ſee a happy day,</l>
+                  <l>Her ſteps are lovely, ſorrowes have their date,</l>
+                  <l>For love doth conquer envy, governe hate.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <lg>
+                  <head>
+                     <hi>Verſe</hi> 1.</head>
+                  <l>HOw ſoon is glory dimme? the Lord doth ſhrowd</l>
+                  <l>The face of <hi>Sion</hi> with a darkened cloud;</l>
+                  <l>His anger darkneth <hi>Iudahs</hi> borrowed light,</l>
+                  <l>And her bright glory is as black as night;</l>
+                  <l>Her beauty is deformed, and that eye</l>
+                  <l>Where ſat enthroned Princely Majeſty</l>
+                  <l>It quite extinguiſh'd, and the angry hand</l>
+                  <l>Or heaven hath ſpoyl'd the pleaſant promis'd Land.</l>
+               </lg>
+               <pb n="13" facs="tcp:44961:12"/>
+               <lg>
+                  <head>(2)</head>
+                  <l>The Lord hath mixed gall in <hi>Iudahs</hi> cup,</l>
+                  <l>And in his fury he hath ſwallowed up</l>
+                  <l>The ſtrength of <hi>Sion,</hi> and her famous City</l>
+                  <l>Is turn'd to aſhes, for he had no pity</l>
+                  <l>Upon poore <hi>Sion,</hi> all her holds are humble</l>
+                  <l>To his high hand; her high battlements tumble,</l>
+                  <l>To Prince and People folly is imputed,</l>
+                  <l>And the proud Enemy has the Land polluted.</l>
+               </lg>
+               <lg>
+                  <head>(3)</head>
+                  <l>The Lord hath cut <hi>Ieruſalems</hi> ſtrength and horne,</l>
+                  <l>And all the treaſure that did once adorne</l>
+                  <l>The royall Land of Iſrael's batter'd downe;</l>
+                  <l>His countenance he masked with a frowne;</l>
+                  <l>He hath withdrawne his warlike hand, whereby</l>
+                  <l>The Campe of Iſrael made their Enemies flie;</l>
+                  <l>But now his anger burneth round about</l>
+                  <l>The Land of <hi>Iacob,</hi> who can put it out?</l>
+               </lg>
+               <lg>
+                  <head>(4)</head>
+                  <l>And as an Archer bends his angry Bow</l>
+                  <l>To do ſome ruine ſuddenly, even ſo</l>
+                  <l>He ſcattereth his Arrows which do vary,</l>
+                  <l>His right hand threatneth as an Adverſary,</l>
+                  <l>And ev'ry thing on which the curious eye</l>
+                  <l>Did take a proſpect, did by Famine dye;</l>
+                  <l>The houſe wherein they call'd upon his name</l>
+                  <l>Is levell'd even by a ſurious flame.</l>
+               </lg>
+               <pb n="14" facs="tcp:44961:13"/>
+               <lg>
+                  <head>(5)</head>
+                  <l>What wrong can Mortalls do? their fury high</l>
+                  <l>Is a weake blaſt; but ah mine Enemy</l>
+                  <l>Is my offended Lord, his wrathfull cup</l>
+                  <l>Is powred out, and he hath ſwallowed up</l>
+                  <l>My Pallaces, and holds are levelled, he</l>
+                  <l>Hath brought my glory into miſery;</l>
+                  <l>He hath increaſt my ſorrows, oh mine eyes</l>
+                  <l>Pumpe flouds of teares, with ſilent nightly cries.</l>
+               </lg>
+               <lg>
+                  <head>(6)</head>
+                  <l>And as a flowred Garden barren made,</l>
+                  <l>So is his Tabernacle quite decay'd,</l>
+                  <l>And we are now even as a deſolate Nation,</l>
+                  <l>The Lord hath quite deſtroy'd his Congregation;</l>
+                  <l>The Lord hath caus'd the ſolemne Feaſts to ceaſe,</l>
+                  <l>And all her Sabbaths; ah what little peace</l>
+                  <l>Can mourning <hi>Sion</hi> ſee in any thing,</l>
+                  <l>When God deſpiſeth both her Prieſt and King!</l>
+               </lg>
+               <lg>
+                  <head>(7)</head>
+                  <l>The Lord hath quite refus'd his holy place</l>
+                  <l>Where the high Prieſt did offer to his Grace</l>
+                  <l>Their rich Oblations, as they dayly do;</l>
+                  <l>His Sanctuary he abhorreth too;</l>
+                  <l>The ſtrength and fortreſſe of the pleaſant Land</l>
+                  <l>Is given up into the Enemies hand,</l>
+                  <l>Who with unhallowed mouths make harmony</l>
+                  <l>As in the day of high ſolemnity.</l>
+               </lg>
+               <pb n="15" facs="tcp:44961:13"/>
+               <lg>
+                  <head>(8)</head>
+                  <l>The Lord long ſince hath threatened to deſtroy</l>
+                  <l>The Land of Iſrael, and eclipſe her joy;</l>
+                  <l>And now her earthly right ſhe muſt reſigne</l>
+                  <l>Againe to him that gave it; for a Line</l>
+                  <l>Is ſtreacht about our Borders, and we doubt</l>
+                  <l>How long this Line of woe is meaſured out;</l>
+                  <l>The earth laments, the walls do ſeeke redreſſe,</l>
+                  <l>The Land does mourne in woe and heavineſſe.</l>
+               </lg>
+               <lg>
+                  <head>(9)</head>
+                  <l>Her Gates are ſunke, her mighty Barres deſtroyd,</l>
+                  <l>The Citie's open; how can we avoyd</l>
+                  <l>The fury of the Foe? her Princes gone</l>
+                  <l>Among the Gentiles, we are left alone;</l>
+                  <l>The Law is blotted out, and none can lend</l>
+                  <l>A word of comfort when our miſeries end;</l>
+                  <l>The Lord ſpeakes not by viſion, not by dreame,</l>
+                  <l>To tell a period of our diſmall Theame.</l>
+               </lg>
+               <lg>
+                  <head>(10)</head>
+                  <l>The Elders they whoſe knowledge could confute</l>
+                  <l>Great learned Oratours, are ſtill and mute,</l>
+                  <l>They hide their heads in duſt, their aged eye</l>
+                  <l>Is taught to weep, and ſometimes wiſh to dye;</l>
+                  <l>Their loyns in ſackcloath they have guirded round,</l>
+                  <l>And ſilently they mourne upon the ground;</l>
+                  <l>The amorous Virgins mourn, their cloaths are rent,</l>
+                  <l>Their beauty is like ſorrows monument.</l>
+               </lg>
+               <pb n="16" facs="tcp:44961:14"/>
+               <lg>
+                  <head>(11)</head>
+                  <l>Oh how mine eyes are blinded with my teares</l>
+                  <l>Pumpt from my ſorrowes? I am big with feares;</l>
+                  <l>My Liver's powred out upon the ground</l>
+                  <l>For our Lands loſſe, and Kingdomes deadly wound;</l>
+                  <l>The tender Infants in the ſtreets do lye</l>
+                  <l>Imploring bread, a little to ſupply</l>
+                  <l>Their hungry ſoules, but yet they with vain moanes</l>
+                  <l>At laſt do dye with oft repeated groanes.</l>
+               </lg>
+               <lg>
+                  <head>(12)</head>
+                  <l>A little bread the hungry Children cry</l>
+                  <l>Moſt deareſt mother ere we quickly dye;</l>
+                  <l>The mother weeps as faſt; ſhe faine would give</l>
+                  <l>Her life for food, that ſo her Child may live;</l>
+                  <l>But as the dying Souldiers heart doth pant</l>
+                  <l>Labouring for life; even ſo the Infants faint</l>
+                  <l>For lack of food; the pretty Infant he</l>
+                  <l>Sleepes with deaths Lullaby on his mothers knee.</l>
+               </lg>
+               <lg>
+                  <head>(13)</head>
+                  <l>What need I call a witneſſe for thy woe,</l>
+                  <l>To what ſhall I compare thy ſorrowes? oh</l>
+                  <l>Moſt glorious <hi>Iudah!</hi> who is like to thee,</l>
+                  <l>Blaſted ſo ſoone, ſo ſoone in miſery?</l>
+                  <l>How ſhall I comfort thee, O faireſt Land!</l>
+                  <l>Alas thy ruines are beyond the hand</l>
+                  <l>Of Art to limne or draw; thy breaches be</l>
+                  <l>Like mighty ſurges in the unruly Sea.</l>
+               </lg>
+               <pb n="17" facs="tcp:44961:14"/>
+               <lg>
+                  <head>(14)</head>
+                  <l>Thy Prophets did delude thee, whilſt that they</l>
+                  <l>With Lyes fore-told thee of a Sun-ſhine day;</l>
+                  <l>Their lying lips would not declare thy Luſt,</l>
+                  <l>Nor tell thee, Earthly Glory ſoone would ruſt:</l>
+                  <l>Then might thy Times to proſp'rous State been turn'd,</l>
+                  <l>Thy Land not ruin'd, nor thy Citie burn'd;</l>
+                  <l>But now 'tis levell'd even by their Lies,</l>
+                  <l>Deſtruction poſted on falſe Propheſies.</l>
+               </lg>
+               <lg>
+                  <head>(15)</head>
+                  <l>And as the foraine Traveller doth paſſe,</l>
+                  <l>He ſhakes his head, and ſighes (woe and alas)</l>
+                  <l>His wondring eyes admiring at the Land,</l>
+                  <l>Which once was glorify'd with Heav'ns high hand;</l>
+                  <l>Is this the Citie, then the Traveller cryes,</l>
+                  <l>Whoſe fame invited all the Nations eyes</l>
+                  <l>To looke upon her beautie! This the Towne,</l>
+                  <l>Call'd Earths perfection, and her high Renowne!</l>
+               </lg>
+               <lg>
+                  <head>(16)</head>
+                  <l>Even thus the Lord hath done his will on us,</l>
+                  <l>The face of <hi>Sion</hi> is moſt leperous,</l>
+                  <l>Her hideous Crimes are in her fore-head read,</l>
+                  <l>The Lord hath done what he determined,</l>
+                  <l>For he hath turn'd her Regall Glory downe,</l>
+                  <l>The Heathen ſway the Scepter, weare the Crowne;</l>
+                  <l>Our Foes on Earth doe flouriſh, they doe riſe,</l>
+                  <l>It proſpers well with <hi>Sions</hi> Enemies.</l>
+               </lg>
+               <pb n="18" facs="tcp:44961:15"/>
+               <lg>
+                  <head>(17)</head>
+                  <l>Why goeſt thou weeping then? oh <hi>Sion</hi> why</l>
+                  <l>Art thou thus troubled? heaven cannot lye,</l>
+                  <l>Though thou thy ſelfe art falſe, what he commands</l>
+                  <l>Is finiſht by his unreſiſted hands;</l>
+                  <l>Thy horrid ſins firſt furrowed up his brow</l>
+                  <l>With angry frownes, and there's no pitty now</l>
+                  <l>Dwells in his royall boſome, but the foe</l>
+                  <l>He makes to glory at thy overthrow.</l>
+               </lg>
+               <lg>
+                  <head>(18)</head>
+                  <l>And now our ſinking ſoules begin to call</l>
+                  <l>Unto the Lord; oh batter'd ruin'd wall</l>
+                  <l>Of diſmall <hi>Sion,</hi> once like ſhining beames</l>
+                  <l>Of heavens glory; Let teares run like ſtreames</l>
+                  <l>Along thy lovely cheeks, both day and night</l>
+                  <l>Take they no reſt, but let thy conſcience fright</l>
+                  <l>Thy ſoule from ſlumber, leſt thy darkned eye</l>
+                  <l>Be lull'd aſleep in ſad ſecuritie.</l>
+               </lg>
+               <lg>
+                  <head>(19)</head>
+                  <l>Ariſe and cry the firſt approaching houre</l>
+                  <l>Of ſilent night; and let thy floudgates powre</l>
+                  <l>Forth ſtreams of brackiſh teares, mixt with a groan;</l>
+                  <l>Lift up thy hands before the lofty Throne</l>
+                  <l>Of high eternity; for the famiſht Child</l>
+                  <l>Whoſe Parent's dead: and ſo the Babes exil'd</l>
+                  <l>From their deare mothers armes, their lingring breath</l>
+                  <l>Longeth and waiteth for a welcome death.</l>
+               </lg>
+               <pb n="19" facs="tcp:44961:15"/>
+               <lg>
+                  <head>(20)</head>
+                  <l>Behold O Lord our God, to whom, to whom,</l>
+                  <l>Haſt thou ſent forth this heavy ſudden doome?</l>
+                  <l>Oh whom haſt thou thus laſhed? ſhall we eate</l>
+                  <l>Our deareſt Children up for want of meate?</l>
+                  <l>Thoſe pretty new-born Babes, whoſe harmleſſe eye</l>
+                  <l>Nere knew a ſin; muſt ſuch ſweet Infants dye?</l>
+                  <l>And are our Prieſts and Prophets mangled heare?</l>
+                  <l>Oh that mine eyes were drowned in a teare.</l>
+               </lg>
+               <lg>
+                  <head>(21)</head>
+                  <l>Oh that mine eyes with ſilent teares were drown'd;</l>
+                  <l>The young and old lye groveling on the ground;</l>
+                  <l>The warlike youngmen, and the amorous face</l>
+                  <l>Of ſpotleſſe Virgins, death doth now diſplace,</l>
+                  <l>And laies them in their monuments; they bow</l>
+                  <l>Their weake mortallity to heavens fierce brow:</l>
+                  <l>If theſe the ruines be of our ſad day,</l>
+                  <l>With flouds of teares I'le weep my ſelfe away.</l>
+               </lg>
+               <lg>
+                  <head>(22)</head>
+                  <l>Thou bring'ſt my foes about my naked wall;</l>
+                  <l>Thou giv'ſt them cauſe to glory in my fall,</l>
+                  <l>And they do doe it: wherefore doſt thou lay</l>
+                  <l>Woes to my ſoule as in a Solemne day?</l>
+                  <l>Thy wrath was kindled, few or none remaine;</l>
+                  <l>To ſcape from killing, it was counted vaine:</l>
+                  <l>Thoſe that I nouriſhed with mine own Cup,</l>
+                  <l>My raging Enemy hath ſwallowed up.</l>
+               </lg>
+            </div>
+            <div n="2" type="contemplation">
+               <pb n="20" facs="tcp:44961:16"/>
+               <head>CONTEMPLATION II.</head>
+               <lg>
+                  <l>THe lab'ring Watch is idle, if the Spring</l>
+                  <l>Be not wound up; and thus in ev'ry thing</l>
+                  <l>There is a Motion; for the Soule doth trace</l>
+                  <l>The Lawes of Nature, or the Rules of Grace:</l>
+                  <l>Our hearts are cold, and various, like the Moone,</l>
+                  <l>Each minute changing; if the righteous Sunne</l>
+                  <l>Shine not upon us, all the world may marke</l>
+                  <l>Our Motion ſtanding, and our Glory darke.</l>
+                  <l>But when the high Creator ſhewes his face,</l>
+                  <l>And clothes the Mortall with diviner Grace,</l>
+                  <l>The brave Heroick heart aſpires to ſhroud</l>
+                  <l>His Contemplation loftier then a Cloud.</l>
+                  <l>What amorous beautie in the world can ſhine</l>
+                  <l>Like to the Graces of a Soule Divine?</l>
+                  <l>No black Diſaſter here can ever maske</l>
+                  <l>That lovely Face, no troubles ſtay her Taske;</l>
+                  <l>No miſts of miſerie eclipſe her motion,</l>
+                  <l>Nor no deluſion hinder her devotion.</l>
+                  <l>The Soule is full of Raptures, and her eyes</l>
+                  <l>Reacheth Eternitie, above the Skyes;</l>
+                  <l>Th'amorous Soule on Earth is wondrous coy,</l>
+                  <l>Deſiring nothing elſe but heavenly joy.</l>
+                  <l>Yet can it be, as this lamented ſtory</l>
+                  <l>Makes evident, that Heaven ſhould hide Glory</l>
+                  <l>From ſuch an honoured Soule, which even <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Hath glorify'd from all eternitie?</l>
+                  <l>And doth he give the Enemie his owne Place?</l>
+                  <l>Hath God, like <hi>Janus,</hi> got a double face?</l>
+                  <l>Doth the baſe Enemie ſo high aſpire,</l>
+                  <l>Whom oft he threatneth with conſuming fire?</l>
+                  <pb n="21" facs="tcp:44961:16"/>
+                  <l>Yea, and their proſp'rous State does oft redowne,</l>
+                  <l>To magnifie the honour of Heavens Crowne.</l>
+                  <l>The Uſurer, whoſe back beares all the Curſes</l>
+                  <l>Of his poore neighbour, could he fill his Purſes</l>
+                  <l>By being godly, he would venture too</l>
+                  <l>To pray to Heaven, as the godly doo;</l>
+                  <l>And could the baſe Adulterer bring to paſſe</l>
+                  <l>His filthy ends, and meet a hand-ſmooth Laſſe</l>
+                  <l>Each Sabbath day at Church, this fellow he</l>
+                  <l>Would be an ugly hearer conſtantly:</l>
+                  <l>The proud man he would make an ugly face,</l>
+                  <l>And pray, and heare, if this would give a place</l>
+                  <l>Of gaine and honour to his high Ambition;</l>
+                  <l>Thus holy Writ ſhould ſerve each baſe condition.</l>
+                  <l>But now, the glorious Soule which Heaven aſpires,</l>
+                  <l>His heart is warmed by Diviner fires;</l>
+                  <l>His life is circumſpect, his bluſhing face</l>
+                  <l>Weares the high ornaments of heavenly Grace:</l>
+                  <l>This Soule is nobly righteous, and it leanes</l>
+                  <l>On its Creator in the moſt extreames.</l>
+                  <l>If ſinne aſſaults the Soule, it ſoone will flie</l>
+                  <l>To the high manſion of Eternitie</l>
+                  <l>For its protection; there, with trembling feares</l>
+                  <l>She bathes her boſome with repenting teares:</l>
+                  <l>The lovely Heaven borne Soule has no falſe ends;</l>
+                  <l>The feare of Enemies, nor the love of friends,</l>
+                  <l>Shall ne'r enſnare her from thoſe Joyes above;</l>
+                  <l>For why? th'amorous Soule hath fixt her love</l>
+                  <l>Upon her glorious Saviour: nevertheleſſe,</l>
+                  <l>She oft may ſit in woe and heavineſſe,</l>
+                  <l>And be in many an earthly contemplation;</l>
+                  <l>When Heav'n brings War and Ruine on a Nation,</l>
+                  <l>Then earthly reaſonings may whiſper loud,</l>
+                  <l>When Heaven is cov'red with a ſable Cloud</l>
+                  <l>Of bloudie War and Famine, when they poure</l>
+                  <l>Thoſe diſmall drops in ſuch a dreadfull Showre</l>
+                  <pb n="22" facs="tcp:44961:17"/>
+                  <l>On one diſtracted Kingdome, then what way,</l>
+                  <l>When darkneſſe does eclipſe the light of day,</l>
+                  <l>Is there for ſoules to wander, when its eyes</l>
+                  <l>Are bloudſhot to behold thoſe villanies</l>
+                  <l>Which bloudy Actors play; when War ſhall reigne</l>
+                  <l>In height of envy, numerous bodies ſlaine</l>
+                  <l>Imbracing gentle earth; when death ſhall vaile</l>
+                  <l>Man in mortality, all faces pall</l>
+                  <l>Becauſe of hungry famine; when the Child</l>
+                  <l>For want of friend and food is far exil'd</l>
+                  <l>From preſent neceſſaries, and therefore lies</l>
+                  <l>With deaths pale Image in his tender eyes;</l>
+                  <l>And when heavens darts ſhall flye like <hi>Sim</hi> &amp; <hi>Jim,</hi>
+                  </l>
+                  <l>The ſoule is ſad, her funerall lights burne dimme;</l>
+                  <l>When life is turn'd to death, and food to feare,</l>
+                  <l>She ſometimes weeps as did the Prophets here;</l>
+                  <l>Yet with a laden heart, and watry eye,</l>
+                  <l>The ſoule doth ſometimes mutter this reply.</l>
+                  <l>Unconſtant ſtate of earth, ſhall any he</l>
+                  <l>That is but duſt, direct eternitie</l>
+                  <l>By his vaine babling? can mortall man</l>
+                  <l>Guide the Celeſtiall Orbs by wiſdome? can</l>
+                  <l>He rule the earth by power? can he ſtay</l>
+                  <l>The Steeds of <hi>Phoebus,</hi> and tye up the day?</l>
+                  <l>Nay, can he rule himſelfe, or guid his mind?</l>
+                  <l>Are not his waies as wavering as the wind?</l>
+                  <l>And wilt thou teach thy Maker? ſince thy birth,</l>
+                  <l>What haſt thou been thou peece of moving earth?</l>
+                  <l>What, hath thy tottring ſoule no faith at all?</l>
+                  <l>Or is thy love to heaven ſo wondrous ſmall?</l>
+                  <l>Hath all this Un verſe ſo little reſt</l>
+                  <l>To give a tired heart? and yet poſſeſt</l>
+                  <l>With love of this low earth my Saviour dy'd,</l>
+                  <l>That through his death I might be glorified;</l>
+                  <l>And ſhall I now reſuſe to dye for him?</l>
+                  <l>Hath fin made theſe darke eyes ſo quickly dimme?</l>
+                  <pb n="23" facs="tcp:44961:17"/>
+                  <l>No, let this earthly man through fire be try'd,</l>
+                  <l>My ſoule ſhall live with him for whom I dy'd;</l>
+                  <l>Where in the Canopy of his beauteous breaſt,</l>
+                  <l>I ſhall ſleep ſafe with undiſturbed reſt;</l>
+                  <l>Have I ſo little power to controule</l>
+                  <l>The aſſaults of ſin and death? Alas poore ſoule!</l>
+                  <l>Be gone my numerous feares, away, away,</l>
+                  <l>After a tempeſt comes a ſhining day;</l>
+                  <l>See, ſee, what dazling glory is behind</l>
+                  <l>You darkned cloud, looke up my muzzled mind,</l>
+                  <l>Flie on the wings of contemplation; ſee,</l>
+                  <l>Thy journies end is high Eternity.</l>
+                  <l>And this, deare Reader, does moſt oft redowne</l>
+                  <l>To heavens honour, when earths troubles drowne</l>
+                  <l>The Saints ſometimes in ſorrow; earth's a toy,</l>
+                  <l>And this disjunction fits the ſoule for joy;</l>
+                  <l>When on the other ſide, if heaven ſhould give</l>
+                  <l>A royall Legacie that Saints might live</l>
+                  <l>On earth moſt long and happy, then might vice</l>
+                  <l>Count heaven a paine, and earth a Paradiſe;</l>
+                  <l>And if the world ſhould often heare or ſee</l>
+                  <l>That Saints did live in high proſperity,</l>
+                  <l>Each wretch would turne a Saint for his owne end,</l>
+                  <l>Looking for earth by making heaven his friend.</l>
+                  <l>But now go on brave ſoule, do thou contemne</l>
+                  <l>All wordly pompe; a royall Diadem</l>
+                  <l>Shall crowne thy arched browes, thy preſent paine</l>
+                  <l>Thou wilt not reckon when thou com'ſt to raigne;</l>
+                  <l>Heaven ſhal receive thee, earth ſhall raiſe thy name</l>
+                  <l>In ſpight of ſinners or their blaſted fame;</l>
+                  <l>And as thy body reſts in deaths darke tent,</l>
+                  <l>This verſe ſhall ſtand upon thy monument:</l>
+                  <l>This valiant mortall by a ſecond birth,</l>
+                  <l>Enjoy'd a Crowne in heaven, conquer'd earth.</l>
+               </lg>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="24" facs="tcp:44961:18"/>
+               <head>CHAP. III.</head>
+               <lg>
+                  <head>
+                     <hi>Verſe</hi> 1.</head>
+                  <l>WHerefore ſhould Mortals labour thus to ſhroud</l>
+                  <l>Their publike Sorrow, in a darkned Cloud</l>
+                  <l>Of Silence? Why ſhould Blackneſſe cover all</l>
+                  <l>The mourning March of <hi>Sions</hi> Funerall?</l>
+                  <l>I am the Man of Sorrow, and Heavens Marke;</l>
+                  <l>I am the chaſened Bird, the early Larke:</l>
+                  <l>His furious Rod hath ſeized upon me;</l>
+                  <l>On me, the Monument of Miſerie.</l>
+               </lg>
+               <lg>
+                  <head>(2)</head>
+                  <l>Who ever ſaw this glorious Eye of Day</l>
+                  <l>Eclips'd in Darkneſſe? And this Ball of Clay</l>
+                  <l>Wrapt in a Sable Mantle, like black Night</l>
+                  <l>Covering the world with Miſts, whoſe Terrors fright</l>
+                  <l>All Mortals in their ſlumbers? Thus mine eyes,</l>
+                  <l>Dim'd with their teares, doe weepe whole Elegies</l>
+                  <l>Of Lamentations, while his hand hath dreſt</l>
+                  <l>My Soule in Troubles, baniſht from her Reſt.</l>
+               </lg>
+               <pb n="25" facs="tcp:44961:18"/>
+               <lg>
+                  <head>(3)</head>
+                  <l>My Soule is ſad enough, I need no more</l>
+                  <l>Such change of Torments then I had before;</l>
+                  <l>I need no other Foe, to come and ſlay</l>
+                  <l>My dying ſelfe: and why then all the day</l>
+                  <l>Does my incenſed Lord againſt me ſtand?</l>
+                  <l>Why at a Mortall doth he turne his hand?</l>
+                  <l>What will he fight with Earth? Alas, before</l>
+                  <l>Much time is ſpent, we ſhall be ſeene no more.</l>
+               </lg>
+               <lg>
+                  <head>(4)</head>
+                  <l>How ſoone is Beautie loſt, and Natures Booke</l>
+                  <l>Quite blotted out, and with an earthly looke</l>
+                  <l>Departs this troubled world, ſoone broke as Glaſſe?</l>
+                  <l>The fleſhes Glory, is but withering Graſſe:</l>
+                  <l>Sinne brings in Sorrow, Griefe makes Beautie old,</l>
+                  <l>The Droſſe is intermingled with the Gold;</l>
+                  <l>The leaſt of Heavens diſpleaſure, if he frowne,</l>
+                  <l>It is enough to bring Earths Glory downe.</l>
+               </lg>
+               <lg>
+                  <head>(5)</head>
+                  <l>Dull piece of feeble Earth, and mortall Man,</l>
+                  <l>A ſhew of ſomething, yet art nothing; can</l>
+                  <l>Th'Almightie not conſume thee, leſt he ſhall</l>
+                  <l>Build up a Worke againſt a tott'ring wall?</l>
+                  <l>What meanes th'Almightie hand of the moſt high</l>
+                  <l>Thus to ſurround us, whoſe mortalitie</l>
+                  <l>Will bring us ſoone to Duſt? each day we fall,</l>
+                  <l>Inſnar'd with Sorrow, Bitterneſſe, and Gall.</l>
+               </lg>
+               <pb n="26" facs="tcp:44961:19"/>
+               <lg>
+                  <head>(6)</head>
+                  <l>Times black hair'd daughter night, that locks all eies</l>
+                  <l>And hearts in ſilent ſlumbring lullabies;</l>
+                  <l>This ſwarthy nurſe with darke and horrid theames,</l>
+                  <l>That frights all mortalls with her nightly dreames,</l>
+                  <l>Does with her curled mantle and her charmes,</l>
+                  <l>Inchant my ſoule to ſlumber in her armes;</l>
+                  <l>Thus lull'd in woe to miſery I went,</l>
+                  <l>As hearſes march to their dull monument.</l>
+               </lg>
+               <lg>
+                  <head>(7)</head>
+                  <l>Oh why does the Almighty hedge us round?</l>
+                  <l>Can this baſe earth be lower than the ground?</l>
+                  <l>The lightfoot Roe-buck with his threatning horne</l>
+                  <l>Swallowes the ground up; and his eyes do ſcorne</l>
+                  <l>The ſwift purſuer, we inclos'd about</l>
+                  <l>Where food cannot get in, nor Famine out;</l>
+                  <l>What griefe or ſorrow do I not poſſeſſe</l>
+                  <l>In chaines of darkneſſe, woe and heavineſſe.</l>
+               </lg>
+               <lg>
+                  <head>(8)</head>
+                  <l>The helpleſſe Infant who with griefe is preſt,</l>
+                  <l>Seekes Sanctuary in his mothers breſt;</l>
+                  <l>And where ſhould hungry ſoules direct their cry,</l>
+                  <l>But to the Pallace of eternity:</l>
+                  <l>And yet O Lord, how oft do we Implore</l>
+                  <l>Reliefe of thee, for we are wondrous poore;</l>
+                  <l>But when our torments make us cry aloud,</l>
+                  <l>Thou wrapſt thy glory in a glo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>my cloud.</l>
+               </lg>
+               <pb n="27" facs="tcp:44961:19"/>
+               <lg>
+                  <head>(9)</head>
+                  <l>The priſon is moſt dreadfull to the eye</l>
+                  <l>Of the ſad ſoule that weares Captivity</l>
+                  <l>About his ſhackled heeles; the gingling chaine</l>
+                  <l>Afflicts the priſoners memory with paine:</l>
+                  <l>Thus we are captiv'd, ah, what ſhall we do,</l>
+                  <l>Incles'd, inchained, and impriſoned too;</l>
+                  <l>My ſoes, my blowes, my crooked ruin'd waies</l>
+                  <l>Cuts off with ſcoſſe the number of my dayes.</l>
+               </lg>
+               <lg>
+                  <head>(10)</head>
+                  <l>Can endleſſe love be angry? will wrath never</l>
+                  <l>Be pacified, will it live for ever</l>
+                  <l>In the Almighties boſome, and his mind</l>
+                  <l>Ne're harbour pitty, but be ſtill unkind</l>
+                  <l>Againſt his choſen people, thus to teare</l>
+                  <l>Like a ſierce Lion or a ſurious beare?</l>
+                  <l>Why doth thy Rod in ſecret places lye?</l>
+                  <l>Alas poore we are ever in thine eye.</l>
+               </lg>
+               <lg>
+                  <head>(11)</head>
+                  <l>Thus vain is worldly pompe, the ſlouriſhing crown</l>
+                  <l>Of earthly glory muſt be trampled downe;</l>
+                  <l>The ſhadowed beauty of mans little world</l>
+                  <l>Survives a moment, then away 'tis hurl'd</l>
+                  <l>Into a miſt of nothing, all my waies</l>
+                  <l>Are turned backward, and my numerous daies</l>
+                  <l>Are now cut ſhorter; thus to ev'ry Nation</l>
+                  <l>By ſin comes ruine, death, and deſolation.</l>
+               </lg>
+               <pb n="28" facs="tcp:44961:20"/>
+               <lg>
+                  <head>(12)</head>
+                  <l>The skilfull Archer with his threatning hand</l>
+                  <l>Drawes forth his Arrow, and his eyes doe ſtand</l>
+                  <l>Full fixed on the Marke; his furious breath</l>
+                  <l>Sends early ſummons of enſuing death</l>
+                  <l>Unto the thing he aimes at: ſo, even ſo,</l>
+                  <l>My angry God hath bent his angry Bow;</l>
+                  <l>Where ſhall I hide me? Oh, the world's too narrow,</l>
+                  <l>To hide a mortall from his flying Arrow.</l>
+               </lg>
+               <lg>
+                  <head>(13)</head>
+                  <l>'Tis vaine, my trembling heart, for to endever</l>
+                  <l>To take thy ſelfe to flight, for that can never</l>
+                  <l>Save thee a minute from his flying Dart,</l>
+                  <l>'Twill quickly reach thee: Oh my dying heart,</l>
+                  <l>His winged ſhafts have hit me; Oh the paine</l>
+                  <l>Of a ſad wounded Soule on earth: how vaine</l>
+                  <l>A thing is Pleaſure, Pride, and Profit? why</l>
+                  <l>Doth man ſo hug deceitfull Vanitie?</l>
+               </lg>
+               <lg>
+                  <head>(14)</head>
+                  <l>Scoffe on, my angry Foes, and let your wiles</l>
+                  <l>Be painted over with deceitfull ſmiles;</l>
+                  <l>Be merry Gallants, let your Laughter riſe,</l>
+                  <l>With Tones of Muſick, to the loſtie Skies;</l>
+                  <l>Drinke Healths to <hi>Sions</hi> Ruine; and yet know,</l>
+                  <l>This is the Churches glory, and thy woe:</l>
+                  <l>No Kingdome's conquer'd, but it is by loſſe,</l>
+                  <l>No Saint is crowned, but he weares the Croſſe.</l>
+               </lg>
+               <pb n="29" facs="tcp:44961:20"/>
+               <lg>
+                  <head>(15)</head>
+                  <l>Urge me no more, my ſoule is fill'd with Gall,</l>
+                  <l>And bitter-taſted Wormewood: Is this all</l>
+                  <l>The joy that Earth can yeeld? Oh, what deluſion</l>
+                  <l>Hath lying Vanities, to bring confuſion</l>
+                  <l>Upon a tott'ring ſoule! A flatt'ring Kiſſe</l>
+                  <l>Of Earth robs man of everlaſting bliſſe;</l>
+                  <l>Thus Folly is exalted, for a Toy</l>
+                  <l>Poore ſhort-liv'd man doth part with endleſſe Joy.</l>
+               </lg>
+               <lg>
+                  <head>(16)</head>
+                  <l>Mans Worke is vaine, his Treaſure is but travell,</l>
+                  <l>Man pines in paine, his Greatneſſe is but gravell;</l>
+                  <l>We faſt, we famiſh too, theſe are our mones,</l>
+                  <l>Our teeth, in ſtead of food, are broke with ſtones.</l>
+                  <l>Thus doe we ſuffer by th'immediate hand</l>
+                  <l>Of Heaven, and the beautie of our Land</l>
+                  <l>Is turn'd a heape of aſhes; while we have</l>
+                  <l>On Earth no Heritance, but in the Grave.</l>
+               </lg>
+               <lg>
+                  <head>(17)</head>
+                  <l>Thus my o'r-whelmed Soule beeame a ſtranger</l>
+                  <l>To Joy and Peace; and dwelling neere to danger,</l>
+                  <l>I ſometimes taught my moſt diſcenſolate heart</l>
+                  <l>Theſe following words: Ah tim'rous fleſh, why art</l>
+                  <l>Thou fill'd with feares? the time is almoſt heere,</l>
+                  <l>When thy Redemption, <hi>Sion,</hi> draweth neere:</l>
+                  <l>My Soule forgat her ſongs, for glory dyes</l>
+                  <l>Like ſhining Glo-wormes to benighted eyes.</l>
+               </lg>
+               <pb n="30" facs="tcp:44961:21"/>
+               <lg>
+                  <head>(18)</head>
+                  <l>Ah ſinfull ſoule, hath Sathan got ſuch ſcope</l>
+                  <l>Of mans bad reaſon, that there is no hope;</l>
+                  <l>Not truſt thy God fond Mortall? did thine eye</l>
+                  <l>Or eare perceive him ever falſifie</l>
+                  <l>With his poore Creatures, but he ſuccour ſent?</l>
+                  <l>Go rocky heart, away thou monument</l>
+                  <l>Cut out of marble, do not hurt my ſence</l>
+                  <l>With unbeliefe, with ſhame and diffidence.</l>
+               </lg>
+               <lg>
+                  <head>(19)</head>
+                  <l>And yet 'twas reaſon (when I call'd to mind</l>
+                  <l>The monſtrous earthquakes, and the huffling wind</l>
+                  <l>Which turned Iſraels glory upſide downe,</l>
+                  <l>And gave the foes the honour of the Crowne)</l>
+                  <l>That I ſhould weep, when I remembred all</l>
+                  <l>The bitter wormwood and the poyſonous gall:</l>
+                  <l>Weep gentle heart, pumpe from my watry eyes</l>
+                  <l>The ſilent ſtreames of mourning Elegies.</l>
+               </lg>
+               <lg>
+                  <head>(20)</head>
+                  <l>My ſoule is ſad indeed, 'tis trueſt moane</l>
+                  <l>When the poore Orphane ſits and grieves alone;</l>
+                  <l>Alone ſaid I, ah me, I need not, we</l>
+                  <l>Have thouſand ſpirits more in miſery,</l>
+                  <l>Whoſe burdened ſorrowes overwhelme their kind;</l>
+                  <l>What are our words, alas they are but wind;</l>
+                  <l>Only remembring mine afflictions, they</l>
+                  <l>Shall humble me in this my cloudy day.</l>
+               </lg>
+               <pb n="31" facs="tcp:44961:21"/>
+               <lg>
+                  <head>(21)</head>
+                  <l>The Malefactour ſmiles to thinke on favour</l>
+                  <l>From the ſterne Judge; Sinners have a Saviour,</l>
+                  <l>Yet they are alwaies angry, and caſt downe,</l>
+                  <l>As if their glory were in earths baſe Crowne;</l>
+                  <l>A Crown! what if thou haſt a Crown? earths glory</l>
+                  <l>Is various, vaine, falſe, and tranſitory:</l>
+                  <l>Conſidering this, ſad heart thou haſt good ſcope</l>
+                  <l>To reſt thy tired ſelfe and live in hope.</l>
+               </lg>
+               <lg>
+                  <head>(22)</head>
+                  <l>I cannot hold, my heart muſt needs confeſſe;</l>
+                  <l>Be witneſſe endleſſe love, judgements were leſſe</l>
+                  <l>Then our tranſgreſſions; when they cried aloud</l>
+                  <l>To the high heavens, and earths darkned cloud</l>
+                  <l>Lookt angry at our ſolly; oh if thou</l>
+                  <l>Shouldſt blaſt us into nothing, even now</l>
+                  <l>Our ſoules ſhould juſtifie thee, 'cauſe poore we</l>
+                  <l>Know, heaven lov'd us from eternity.</l>
+               </lg>
+               <lg>
+                  <head>(23)</head>
+                  <l>As oft as <hi>Phoebus</hi> lights the darkned skies</l>
+                  <l>With mourning raies, dazling all mortals eyes</l>
+                  <l>With fulneſſe of his glory; Writers ſay,</l>
+                  <l>A bluſhing Evening brings a Sun-ſhine day;</l>
+                  <l>Even thus our Sun ſpreads-forth Caeleſtiall wings</l>
+                  <l>Of brighteſt glory, and away he flings</l>
+                  <l>Thoſe haſty miſts of darkneſſe, which infold</l>
+                  <l>The tried Silver, and corrupts the Gold.</l>
+               </lg>
+               <pb n="32" facs="tcp:44961:22"/>
+               <lg>
+                  <head>(24)</head>
+                  <l>But Heaven is my Soules portion, and my part,</l>
+                  <l>Filling the vaſtneſſe of my Soule, my heart</l>
+                  <l>Cannot containe the treaſure of this wealth,</l>
+                  <l>'Tis ſick of Love, and yet in perfect health;</l>
+                  <l>Glory and honour doth attend the man</l>
+                  <l>With higheſt joy, that hath this Dowrie: can</l>
+                  <l>There be a lack? though Famine be ſo neere,</l>
+                  <l>Feare darkneth Faith, and Faith deſtroyeth Feare.</l>
+               </lg>
+               <lg>
+                  <head>(25)</head>
+                  <l>The tyred Traveller in Summer dayes</l>
+                  <l>Seekes for ſome cooling ſhade, to keepe the rayes</l>
+                  <l>Of hot <hi>Apollo</hi> from his fainting head;</l>
+                  <l>When flaming <hi>Phoebus,</hi> and his firie Steeds</l>
+                  <l>Are in their high Careere, the Dog-ſtarre flyes,</l>
+                  <l>Barking with heat through Heavens Canopie;</l>
+                  <l>Chriſt is this cooling ſhade, his Kingly mind</l>
+                  <l>Rewards the worker; he that ſeekes ſhall find.</l>
+               </lg>
+               <lg>
+                  <head>(26)</head>
+                  <l>Thrice happy Traveller, that this journey made,</l>
+                  <l>To ſeeke a ſhelter in this pleaſant ſhade:</l>
+                  <l>What greater portion on the Earth then this?</l>
+                  <l>And in the Heavens what higher Paradiſe?</l>
+                  <l>Mortals y'are couſen'd, worldly Wit and Strength,</l>
+                  <l>Pride and Vaine-glory failes poore man at length:</l>
+                  <l>Where then is ſure protection from all harmes?</l>
+                  <l>Ile tell thee where, 'tis in th'Almighties armes.</l>
+               </lg>
+               <pb n="33" facs="tcp:44961:22"/>
+               <lg>
+                  <head>(27)</head>
+                  <l>The Warlick Horſe, whom Nature doth bedeek</l>
+                  <l>With ſtrength and vigour, and his thundring neck</l>
+                  <l>Is dreſt with youth and fortitude, his eye</l>
+                  <l>Sends furious ſummons to the enemie;</l>
+                  <l>While ſtrength is in his loynes, his courage can</l>
+                  <l>Breathe out defiance to the armed man:</l>
+                  <l>'Tis good in youth to taſte afflictions loſſe,</l>
+                  <l>He that wil weare the Crown, muſt bear the Croſſe.</l>
+               </lg>
+               <lg>
+                  <head>(28)</head>
+                  <l>Canſt thou be ſilent, when thy God is neere?</l>
+                  <l>Canſt thou be ſad, and haſt no cauſe of feare?</l>
+                  <l>Canſt thou be dazled with thy ſinnes reflection?</l>
+                  <l>Canſt thou be fearfull, when thou haſt protection?</l>
+                  <l>Why doſt thou mourne for <hi>Sions</hi> miſerie?</l>
+                  <l>Pride was the Prologue to her Tragedie;</l>
+                  <l>Rather then murmure for deſerved ill,</l>
+                  <l>Cloſe thy lips ever, Soule be ſilent ſtill.</l>
+               </lg>
+               <lg>
+                  <head>(29)</head>
+                  <l>A Child of Heaven early doth begin</l>
+                  <l>To honour vertue, and to trample ſin</l>
+                  <l>Under his careleſſe feet; his ſcornefull eye</l>
+                  <l>Takes but ſlight notice of Earths vanitie:</l>
+                  <l>Sweet-fac'd Humilitie is Honours Mother,</l>
+                  <l>He that hath one, will quickly have the other;</l>
+                  <l>They both are matcht with Glory, happy he</l>
+                  <l>That comes to Honour by Humilitie.</l>
+               </lg>
+               <pb n="34" facs="tcp:44961:23"/>
+               <lg>
+                  <head>(30)</head>
+                  <l>Is it ſuch honour to be humble then?</l>
+                  <l>Are mourning mortals moſt the happieſt men?</l>
+                  <l>Where lyes their glory, ſayes the world? for we</l>
+                  <l>See no ſuch honour in humilitie;</l>
+                  <l>Th'are 'tyr'd with rags, and they are fed with feares,</l>
+                  <l>Reproaches, ſcandals, and the peoples jeeres:</l>
+                  <l>And is this honour? yea, and this ſtory</l>
+                  <l>Is the Saints evidence for higheſt glory.</l>
+               </lg>
+               <lg>
+                  <head>(31)</head>
+                  <l>Time darkeneth the Skyes, Time brings the Day;</l>
+                  <l>Time glads the eyes, Time puffes all joy away;</l>
+                  <l>Time builds a Kingdome, Time o'rthrows a Nation,</l>
+                  <l>Time writes a ſtorie of their deſolation:</l>
+                  <l>Time hath a time, when Time ſhall be no more;</l>
+                  <l>Time makes ſome rich, and Time makes rich men poore;</l>
+                  <l>Time is, when God will be his Churches friend,</l>
+                  <l>When Times eternitie ſhall never end.</l>
+               </lg>
+               <lg>
+                  <head>(32)</head>
+                  <l>For though, fond man, thou taſte afflictions ſorrow</l>
+                  <l>This gloomie ev'ning, joy will come to morrow;</l>
+                  <l>Indeed a night or two thy ſorrowes may</l>
+                  <l>Eclipſe thy glory, but a ſhining day</l>
+                  <l>Will ſoone appeare, to glad thy longing eyes,</l>
+                  <l>Like ſhining <hi>Phoebus</hi> in the bluſhing Skyes:</l>
+                  <l>Man ſhall finde mercie, ſinners may intrude</l>
+                  <l>To reſt their ſoules in mercies multitude.</l>
+               </lg>
+               <pb n="35" facs="tcp:44961:23"/>
+               <lg>
+                  <head>(33)</head>
+                  <l>The chafing Horſe breaks through th'armed Ranks</l>
+                  <l>With his proud Rider, and his bleeding flanks</l>
+                  <l>Are witneſſes of haſte; his courage brave</l>
+                  <l>At laſt is cool'd, and meaſureth out his grave</l>
+                  <l>Upon the bloudie earth: thus we begin,</l>
+                  <l>Rid by vain-glory, and ſpurr'd on with ſin,</l>
+                  <l>To break Heav'ns high Command; ſo Death is juſt,</l>
+                  <l>Our pride and honour lyeth in the duſt.</l>
+               </lg>
+               <lg>
+                  <head>(34)</head>
+                  <l>And yet his bleſſings are farre more then blowes;</l>
+                  <l>Men uſe to trample downe their conquer'd foes</l>
+                  <l>Under their Horſes fetlocks, few will give</l>
+                  <l>Their wounded enemie an houre to live:</l>
+                  <l>Yet <hi>Iſraels</hi> God, whoſe high victorious hand</l>
+                  <l>Can cruſh the ſinfull pris'ners of the Land</l>
+                  <l>Into a piece of nothing; ſtill his ſtrife</l>
+                  <l>Is but to give dead man eternall life.</l>
+               </lg>
+               <lg>
+                  <head>(35)</head>
+                  <l>Have we a Right to theſe Terreſtriall Toyes,</l>
+                  <l>And yet a Title to Celeſtiall Joyes?</l>
+                  <l>This is on Earth, and that above the Skies;</l>
+                  <l>The firſt, the Promiſe; and the laſt, the Prize;</l>
+                  <l>He that hath this, will quickly have the laſt,</l>
+                  <l>Glory comes poſting, when our grieſe is paſt:</l>
+                  <l>If God denie us not this Earthly Ball,</l>
+                  <l>He'll give us Heaven, which is beſt of all.</l>
+               </lg>
+               <pb n="36" facs="tcp:44961:24"/>
+               <lg>
+                  <head>(36)</head>
+                  <l>He takes no pleaſure when he doth ſubvert</l>
+                  <l>The Cauſe of man, nor doth it glad his heart</l>
+                  <l>To over-turne a mortall in his pride;</l>
+                  <l>He takes no glory, for to blow aſide</l>
+                  <l>The proſp'rous ſtate of man; it is his badneſſe,</l>
+                  <l>That brings him miſerie when he may have gladneſſe:</l>
+                  <l>If ſinne brings ſorrow then, and blindneſſe blowes,</l>
+                  <l>Blame thy bad deeds (O man) they are thy foes.</l>
+               </lg>
+               <lg>
+                  <head>(37)</head>
+                  <l>What King can clip the flying wings of Time,</l>
+                  <l>With all his Majeſtie? Although he climbe</l>
+                  <l>Unto the top of Honour, can his Power</l>
+                  <l>Stay ſwift-foot <hi>Phoebus</hi> chafing Steeds an houre.</l>
+                  <l>To wait upon him? Or what Prince can ſay,</l>
+                  <l>Ile bring to paſſe my purpoſe the next day?</l>
+                  <l>Unleſſe the Lord command theſe earthly things,</l>
+                  <l>The leaſt is higher then the reach of Kings.</l>
+               </lg>
+               <lg>
+                  <head>(38)</head>
+                  <l>The world ſhall paſſe away, and all therein</l>
+                  <l>Shall be no more, as if they had not bin;</l>
+                  <l>As if they never were, they all ſhall fade;</l>
+                  <l>They all were moving ſince they firſt were made:</l>
+                  <l>Each word of God is good, and there's no Clauſe</l>
+                  <l>Of threatning ruine in thoſe righteous Lawes</l>
+                  <l>To him that keeps thoſe bleſt Commands, for he</l>
+                  <l>Reward ſhall have unto eternitie.</l>
+               </lg>
+               <pb n="37" facs="tcp:44961:24"/>
+               <lg>
+                  <head>(39)</head>
+                  <l>Why weep'ſt thou then (O man) why doth thine eyes</l>
+                  <l>Implore reliefe with watrie obſequies?</l>
+                  <l>Why doſt thou teach thy heavie heart to mourne</l>
+                  <l>In ſilent corners? why doſt thou adorne</l>
+                  <l>Thy Soule in ſable weeds? why doſt thou dreſſe</l>
+                  <l>Thy ſelfe in ſorrow, woe, and heavineſſe?</l>
+                  <l>Oh, why complaineſt thou? it is thy ſin</l>
+                  <l>Barres out thy joy, and bringeth judgements in.</l>
+               </lg>
+               <lg>
+                  <head>(40)</head>
+                  <l>Search ev'ry corner of thy ſelfe, ſad Soule,</l>
+                  <l>Trie all thy actions, let not darkneſſe roule</l>
+                  <l>Thee in her lulling armes, but now imbrace</l>
+                  <l>The glorious purchaſe of Heavens proffred grace;</l>
+                  <l>Yet mourning Soule returne, yet ſinner wake</l>
+                  <l>From thy ſecuritie; goe, hie thee, take</l>
+                  <l>Thy well-prepared venſion, Heaven will ſtay,</l>
+                  <l>And double bleſſe thee, ere he part away.</l>
+               </lg>
+               <lg>
+                  <head>(41)</head>
+                  <l>The Sunne being ſet, all mortals goe to reſt,</l>
+                  <l>Our ſorrow riſes; then each ſoule's poſſeſt</l>
+                  <l>With feare and horror, and each man complaines</l>
+                  <l>Of mightie loſſes, and of little gaines;</l>
+                  <l>We lift our hands to Heaven ſometimes for aid,</l>
+                  <l>We caſt our eyes up when we are afraid;</l>
+                  <l>But when doe Hearts, and Hands, and Eyes, agree</l>
+                  <l>With Faith and Love, Truth and Sinceritie.</l>
+               </lg>
+               <pb n="38" facs="tcp:44961:25"/>
+               <lg>
+                  <head>(42)</head>
+                  <l>Oh Sinne, my fatall Foe, how bad is gaine</l>
+                  <l>Contracted from thee? pleaſure is but paine;</l>
+                  <l>How falſe is ſinners joy? their Mines are moſſe,</l>
+                  <l>Their worke is toyleſome, yet their labour's loſſe;</l>
+                  <l>Their bloſſome's blaſted with a minutes breath,</l>
+                  <l>Their light is darkneſſe, and their life is death:</l>
+                  <l>Sinne doth deſtroy the glorious Soule, for why,</l>
+                  <l>The Soule that ſinneth ſhall be ſure to die.</l>
+               </lg>
+               <lg>
+                  <head>(43)</head>
+                  <l>Ah me, how quickly doth this houſe of man</l>
+                  <l>Decay? his wayes are like a feathred fan,</l>
+                  <l>Which wav'reth with the wind; his ſtrength &amp; prime</l>
+                  <l>Is wondrous weake, and his ſwift-poſting time</l>
+                  <l>Is very ſhort: though ſometimes he be high,</l>
+                  <l>Like a tall Cedar, which doth dare the Skie,</l>
+                  <l>And ſwelleth in his pride; a little Rub</l>
+                  <l>Of fickneſſe makes the Cedar but a Shrub.</l>
+               </lg>
+               <lg>
+                  <head>(44)</head>
+                  <l>Where ſhall we hide us? is there ne'r a mountaine</l>
+                  <l>To o'r-ſhadow us? or a pleaſant fountaine</l>
+                  <l>For tyred Soules to bathe in, while the Cloud</l>
+                  <l>Of Thunder is blowne over? may we ſhroud</l>
+                  <l>Our Soules in no protection, while our teares</l>
+                  <l>Shall waſh our boſomes, and invite the eares</l>
+                  <l>Of Heav'n to liſten, that our cryes may be</l>
+                  <l>Lodg'd in the Palace of Eternitie?</l>
+               </lg>
+               <pb n="39" facs="tcp:44961:25"/>
+               <lg>
+                  <head>(45)</head>
+                  <l>Th'glory is departed, <hi>Iſraels</hi> Land is taken,</l>
+                  <l>
+                     <hi>Judah's</hi> hollow-hearted, therefore is forſaken;</l>
+                  <l>And in the duſt doth <hi>Sions</hi> honour lye,</l>
+                  <l>To be a Proverb for the paſſers by:</l>
+                  <l>Who is more ſlighted, and who more revil'd,</l>
+                  <l>Then the bad Servant, or the ſtubborne Child?</l>
+                  <l>If Heavens Children diſobedient be,</l>
+                  <l>Their ſure reward is Earths indignitie.</l>
+               </lg>
+               <lg>
+                  <head>(46)</head>
+                  <l>The looks of Envie, and the mouth of Fame,</l>
+                  <l>Act both their hatefull Parts, to wound and ſhame</l>
+                  <l>Our Soules: Oh this unwelcome howre!</l>
+                  <l>Why is our glory in th'enemies powre?</l>
+                  <l>And what can we expect from theſe our foes,</l>
+                  <l>But wry-mouth'd ſlander, ſlaverie, and blowes?</l>
+                  <l>Oh Lord deliver us from th'enemies hand,</l>
+                  <l>And blaſt their malice with a counter-mand.</l>
+               </lg>
+               <lg>
+                  <head>(47)</head>
+                  <l>May not the firſt ſuffice; Feare, and a Snare?</l>
+                  <l>Alas, it is enough; what mortall dare</l>
+                  <l>Challenge a ſingle Duel with theſe here?</l>
+                  <l>Feare brings a Snare, and Snares begetteth Feare;</l>
+                  <l>The next is Hate, and Ruine, and theſe be</l>
+                  <l>The foure Contrivers of our Tragedie:</l>
+                  <l>Lord ſtrike the Epilogue, and change the Stage,</l>
+                  <l>And make a Golden of our Iron Age.</l>
+               </lg>
+               <pb n="40" facs="tcp:44961:26"/>
+               <lg>
+                  <head>(48)</head>
+                  <l>As when <hi>Apollo</hi> doth his glory ſhroud</l>
+                  <l>Behind the Curtaine of ſome darkned Cloud,</l>
+                  <l>The Ayre, lamenting <hi>Phoebus</hi> abſence, poures</l>
+                  <l>Upon the Earth ſome drops of weeping ſhowres;</l>
+                  <l>Thus doth our Sunne ſet, and our ſorrowes riſe,</l>
+                  <l>Darkning the light of our benighted eyes,</l>
+                  <l>And makes our floud-gates ſend forth ſhowrie ſtreames,</l>
+                  <l>For the ſad loſſe of Heav'ns illuſtrious beames.</l>
+               </lg>
+               <lg>
+                  <head>(49)</head>
+                  <l>Will not the Heavens cleare? and will the Day</l>
+                  <l>Ne'r break theſe chaines of Night and come away?</l>
+                  <l>Why doth this Cypreſſe Girdle often bind</l>
+                  <l>The circled world? Ah, are we ſtill confin'd</l>
+                  <l>To ſit in theſe darke ſhadowes? Muſt our teares</l>
+                  <l>Be ſtill as conſtant as our nightly feares?</l>
+                  <l>Our eyes are ſprings, whoſe ſtreams can never ſtay,</l>
+                  <l>Riſe ſweet-fac'd <hi>Phoebus,</hi> riſe, and bring the Day.</l>
+               </lg>
+               <lg>
+                  <head>(50)</head>
+                  <l>Although my heavie heart be thus oppreſt,</l>
+                  <l>Although my tott'ring ſoule be kept from reſt,</l>
+                  <l>Although mine eyes with looking up are blind,</l>
+                  <l>Although my miſerie hath o'rwhelm'd my mind;</l>
+                  <l>Yet, Lord, caſt but a ſplendour from thy Throne,</l>
+                  <l>My heart ſhall ceaſe to grieve, my ſoule to groane;</l>
+                  <l>Mine heart, my mind, my tongue, and memorie,</l>
+                  <l>Shall all in one ſet forth thy Majeſtie.</l>
+               </lg>
+               <pb n="41" facs="tcp:44961:26"/>
+               <lg>
+                  <head>(51)</head>
+                  <l>The eye is but the proſpect of the heart,</l>
+                  <l>A little member, yet it doth take part</l>
+                  <l>Of ev'ry ſorrow, and our inward griefe</l>
+                  <l>The eye relenting, doth implore beliefe:</l>
+                  <l>The heart is hid, ſo are our ſecret feares,</l>
+                  <l>But the eye ſhewes them with its guſhing teares;</l>
+                  <l>What my ſtill troubles are, mine eyes doe ſpeake,</l>
+                  <l>And were it not for teares, my heart would breake.</l>
+               </lg>
+               <lg>
+                  <head>(52)</head>
+                  <l>Run not ſo faſt, O ye my following Foes,</l>
+                  <l>Let me a little breathe betweene your blowes;</l>
+                  <l>Strike not ſo thick on my diſarmed head,</l>
+                  <l>Let not your cruell hate ſo farre be led,</l>
+                  <l>To bring me as a Bird into Deaths ſnare;</l>
+                  <l>Let me have freedome, howſoe'r I fare:</l>
+                  <l>Let me but ſerve my God in his high Hill,</l>
+                  <l>And doe your worſt, my Foes, doe what you will.</l>
+               </lg>
+               <lg>
+                  <head>(53)</head>
+                  <l>Pride and Preſumption did me once commit</l>
+                  <l>To the low Dungeon, where my ſoule did ſit</l>
+                  <l>Inveloped in darkneſſe, and cold clay,</l>
+                  <l>Not making diff'rence 'twixt the night and day;</l>
+                  <l>And on the mouth of which they caſt a ſtone,</l>
+                  <l>To keepe me ſure; or fearing that my mone</l>
+                  <l>Should reach the eares of Heaven, thus their doome</l>
+                  <l>Interr'd and layd me in Earths hollow'd wombe.</l>
+               </lg>
+               <pb n="42" facs="tcp:44961:27"/>
+               <lg>
+                  <head>(54)</head>
+                  <l>Th'aſpiring ſurges of the ſwelling Ocean,</l>
+                  <l>(That ſometimes kiſſe the Clouds) whoſe motion</l>
+                  <l>Is backt with Thunder; Ship and men</l>
+                  <l>Firſt toſt up toward Heaven, then agen</l>
+                  <l>They come as ſwiftly downeward to the brinke;</l>
+                  <l>Sometimes they ſoare aloft, and ſometimes ſinke:</l>
+                  <l>Sometimes my Faith did blow a pleaſant gale,</l>
+                  <l>Till I was ſinking, then my Faith did faile.</l>
+               </lg>
+               <lg>
+                  <head>(55)</head>
+                  <l>Out of the bowels of Earths hollow'd Wombe</l>
+                  <l>I ſometimes whiſper'd; Ah, is this my Tombe?</l>
+                  <l>Am I interr'd in Earth? and am I ſent</l>
+                  <l>To lye for ever in this Monument?</l>
+                  <l>Ah, hath the Lord forgot his grace? and why</l>
+                  <l>Doth wrath ſo long lodge in th'Almighties eye?</l>
+                  <l>Breathe joy to my ſad Soule, dear Lord, thy breath</l>
+                  <l>Gives light in darkneſſe, and a life in death.</l>
+               </lg>
+               <lg>
+                  <head>(56)</head>
+                  <l>How unbelieving is the heart of man?</l>
+                  <l>How baſe and fearefull, and how vaine? who can</l>
+                  <l>Know the deluſions that are lodged there?</l>
+                  <l>How farre from Faith, how full of ſlaviſh feare,</l>
+                  <l>My Soule can witneſſe? Lord, thou hear'ſt my crie,</l>
+                  <l>What need I then uſe this tautologie?</l>
+                  <l>But that it ſtrengthneth Faith, which would decay;</l>
+                  <l>The more thou promiſeſt, the more wee'l pray.</l>
+               </lg>
+               <pb n="43" facs="tcp:44961:27"/>
+               <lg>
+                  <head>(57)</head>
+                  <l>Love, Power, and Feare did all at once agree,</l>
+                  <l>In a low heart to make a harmonie:</l>
+                  <l>Firſt, Love doth cloath the Soule with ſweetneſſe, and</l>
+                  <l>Heav'n gives baſe Earth a pow'rfull countermand,</l>
+                  <l>And therefore riſeth as a Lion ſtrong,</l>
+                  <l>And thus proclaimes; Who dares to offer wrong</l>
+                  <l>To this moſt am'rous Soule, while Heav'n is here?</l>
+                  <l>Bleſt is the heart, where dwels Love, Powre, and Feare.</l>
+               </lg>
+               <lg>
+                  <head>(58)</head>
+                  <l>The valiant Champion, whoſe deeds may claime</l>
+                  <l>A ſhare of Honour, and the breath of Fame,</l>
+                  <l>His Truth and Valour hath no other Lawes,</l>
+                  <l>For the deſending of the weaker Cauſe,</l>
+                  <l>But love to Faith and Vertue; even thus</l>
+                  <l>Heav'n makes his Name on Earth moſt glorious,</l>
+                  <l>By blowing of our dangers, and our harme,</l>
+                  <l>With power, and wonder, from his Warlike Arme.</l>
+               </lg>
+               <lg>
+                  <head>(59)</head>
+                  <l>My Lord, I'm wrong'd, th'accuſed Priſoner cryes,</l>
+                  <l>Th'Indictment's falſe, th'envious Witneſſe lyes;</l>
+                  <l>You know, my Lord, the man tells nothing true,</l>
+                  <l>I will appeale to Heaven and to you;</l>
+                  <l>Yet may the blinded Judge, againſt the Lawes,</l>
+                  <l>Hang the poore Priſoner, and condemne his Cauſe:</l>
+                  <l>But, Lord, thou art a Witneſſe of our ſtate,</l>
+                  <l>Our Judge, our Father, Friend, and Advocate.</l>
+               </lg>
+               <pb n="44" facs="tcp:44961:28"/>
+               <lg>
+                  <head>(60)</head>
+                  <l>Rocks cannot ſave thee, nor high mountaines hide thee,</l>
+                  <l>Seas will not have thee, nor the Earth abide thee,</l>
+                  <l>Day not adorne thee, darkneſſe not protect thee,</l>
+                  <l>Thy foes will ſcorne thee, and thy friends reject thee;</l>
+                  <l>Night cannot hide thy black-mouth'd malice, nay,</l>
+                  <l>Thy miſtie mid-night's like the midſt of day;</l>
+                  <l>And if the glorious day ſhall ſhew my wrong,</l>
+                  <l>It is not long to day, it is not long.</l>
+               </lg>
+               <lg>
+                  <head>(61)</head>
+                  <l>And as the dazling beames of Heav'ns bright eye,</l>
+                  <l>Riſing aloft in his high Majeſtie,</l>
+                  <l>Diſcov'reth all diſaſters which are hurld</l>
+                  <l>With ſhades of darkneſſe in the mantled world;</l>
+                  <l>Ev'n ſo, my God, thy piercing eye, thine care,</l>
+                  <l>Is quick in ſeeing, and moſt ſwift to heare,</l>
+                  <l>Thou ſeeſt their conſultations; judge my Cauſe</l>
+                  <l>By the true tenor of thy righteous Lawes.</l>
+               </lg>
+               <lg>
+                  <head>(62)</head>
+                  <l>Ah fooliſh enemie, why doſt thou wrong</l>
+                  <l>Thy ſilly ſelfe? I know, thy envious tongue</l>
+                  <l>Would poyſon thoſe whoſe actions God doth love,</l>
+                  <l>But they this piece of hatred are above;</l>
+                  <l>Thy plots or black complyance (O thou Drone)</l>
+                  <l>What needſt thou whiſper, when thy heart is knowne:</l>
+                  <l>But yet goe on, thou ſhalt not loſe thy hire</l>
+                  <l>In th'infernall Lake of furious fire.</l>
+               </lg>
+               <pb n="45" facs="tcp:44961:28"/>
+               <lg>
+                  <head>(63)</head>
+                  <l>Doth mirth become a foole? it is not fit</l>
+                  <l>They ſhould be merry that have got no wit:</l>
+                  <l>Did I ſay wit? 'tis wiſdome that I meane;</l>
+                  <l>There may be wit where wiſdome ne'r was ſeene:</l>
+                  <l>If wiſdome were with wit, their Songs would be</l>
+                  <l>Not dreſt with Lines of non-ſence Poetrie:</l>
+                  <l>Sing on vaine Drunkards, laugh, your merry jeeres</l>
+                  <l>I doubt will change, there is a time for teares.</l>
+               </lg>
+               <lg>
+                  <head>(64)</head>
+                  <l>Reward of good, is glory; and the hire</l>
+                  <l>Of Satans inſtruments, is endleſſe fire;</l>
+                  <l>His worke being done on Earth, he ſhall commence</l>
+                  <l>In never dying flames, Hels recompence:</l>
+                  <l>Strike them with dreadfull thunder, Lord, and flaſhes</l>
+                  <l>Of fearefull Lightning; lay on thy laſhes</l>
+                  <l>Upon their naked ſhoulders, let them ſee</l>
+                  <l>Thy wrath purſues them to eternitie.</l>
+               </lg>
+               <lg>
+                  <head>(65)</head>
+                  <l>And ſince they would thy Precepts diſannull,</l>
+                  <l>Lord make them ſtupid, let their braines be dull,</l>
+                  <l>Let them not ſee where Truth and Error lyes;</l>
+                  <l>Give them a deafned care, and blinded eyes,</l>
+                  <l>Give them a ſinking ſoule, that may ſoone faint,</l>
+                  <l>Make it erroneous, hard, and obſtinant:</l>
+                  <l>O make their memory loath'd, when they ſhall vade<g ref="char:punc">▪</g>
+                  </l>
+                  <l>From the worlds proſpect, like an evening ſhade.</l>
+               </lg>
+               <pb n="46" facs="tcp:44961:29"/>
+               <lg>
+                  <head>(66)</head>
+                  <l>Three Acts are paſt along our bloudie Stage,</l>
+                  <l>And there is two to come; our mournfull Age</l>
+                  <l>Is a ſad preſident to all eyes; O may</l>
+                  <l>Our enemies fall fill up the following Play:</l>
+                  <l>Now let our enemies act their diſmall part,</l>
+                  <l>Let each foe ſtrike his fellow to the heart,</l>
+                  <l>So let them dye; Lord blaſt them, let them be</l>
+                  <l>The Epilogue of our ſad Tragedie.</l>
+               </lg>
+            </div>
+            <div n="3" type="contemplation">
+               <head>CONTEMPLATION III.</head>
+               <lg>
+                  <l>WHat meanes the Joy that Worldlings take on Earth,</l>
+                  <l>Triumphing in falſe Glory, and vaine Mirth?</l>
+                  <l>Why are their faces dreſt with flouriſht ſmiles</l>
+                  <l>Of joviall merriment, and yet the whiles</l>
+                  <l>Their ſoules doe ſinke with ſorrow? Can they beare</l>
+                  <l>The checks of Conſcience with ſo little care?</l>
+                  <l>What? is the Soule aſleepe, while mortals act</l>
+                  <l>Their merry Comedies, while they contract</l>
+                  <l>Guilt on th'accuſed Conſcience, while they lye</l>
+                  <l>Rockt in ſecuritie, with this Lullaby?</l>
+                  <l>What meanes the proſp'rous pompe of ſuch a Blade,</l>
+                  <l>Whoſe earthly honour may a while perſwade</l>
+                  <l>The world there is no God; the ſinners ſtate</l>
+                  <l>Doth alway flouriſh, and is fortunate?</l>
+                  <pb n="47" facs="tcp:44961:29"/>
+                  <l>Hee's deckt with antick Robes of the beſt faſhion,</l>
+                  <l>He blaſphemes Heav'n in each Recreation:</l>
+                  <l>Looke on the wretch; he hath all earthly glories,</l>
+                  <l>Brave Buildings, ſtately Works, Heroick Stories</l>
+                  <l>Wrought with laborious Needles, where the hand</l>
+                  <l>Of curious Art doth give a countermand</l>
+                  <l>To the worlds ignorance; while Natures eye</l>
+                  <l>In looking, prayſeth Ingenuitie.</l>
+                  <l>He hath both wealth and wit, a warlike arme</l>
+                  <l>That's ſtrong and valiant, oft in offring harme,</l>
+                  <l>High honour, great advancement, prayſe of men,</l>
+                  <l>And love of Ladies, which are offred when</l>
+                  <l>The man is full of Money: thus he walkes</l>
+                  <l>In his vain-glory, and he alwayes talkes</l>
+                  <l>Of great affaires; his Honour doth defie</l>
+                  <l>To tell the Truth, and yet he hates the Lie</l>
+                  <l>Should be returned on him, while his face</l>
+                  <l>Is a red embleme of ſinnes black diſgrace.</l>
+                  <l>Vile wretch, how ſafe thou art, while Conſcience ſhe</l>
+                  <l>Doth lye intombed in obſcuritie?</l>
+                  <l>There is a time for flames, or elſe for feares,</l>
+                  <l>A time for torments, or a time for teares.</l>
+                  <l>Retire into thy Cloſet, take thy Pen,</l>
+                  <l>Goe muſe on the mortalitie of men,</l>
+                  <l>Write the diſaſters that attend the Crowne</l>
+                  <l>Of earthly Royaltie; goe thou wretch, ſit downe</l>
+                  <l>In thy retired Chamber halfe a day,</l>
+                  <l>Let Conſcience ſpeak, and Conſcience thus wil ſay.</l>
+                  <l>Ah man, obdurate man, why waſt thou borne</l>
+                  <l>Into the world, or why did Heav'n adorne</l>
+                  <l>Thy Soule with immortalitie? why did Love,</l>
+                  <l>Whoſe rare tranſcendencie is farre above</l>
+                  <l>The worlds deſert, or reaſon, ever ſtretch</l>
+                  <l>Thoſe ſweet imbraces to ſo vile a wretch,</l>
+                  <l>To ſo deform'd a wretch as thou? O piece of Clay,</l>
+                  <l>Didſt thou deſerve it, blinded ſinner, ſay?</l>
+                  <pb n="48" facs="tcp:44961:30"/>
+                  <l>What canſt thou anſwer me, proud mortall, why</l>
+                  <l>Thou ſhouldſt not have thy judgement now to die?</l>
+                  <l>What art thou, feeble Earth? a little duſt;</l>
+                  <l>What's Beauties bloſſome? it will quickly ruſt;</l>
+                  <l>What is this ſpacious Univerſe, but a Theame?</l>
+                  <l>What is mans dignitie, but an idle Dreame?</l>
+                  <l>What is thy wealth? a weather-cock of woe;</l>
+                  <l>And what is honour, but mans overthrow?</l>
+                  <l>And what are all thy friends? they paſſe away</l>
+                  <l>Like ſhort-liv'd Actors in a Tragick Play:</l>
+                  <l>Friends, wealth, wit, honour, beautie, have no power</l>
+                  <l>To ſave thee from the King of feares one houre.</l>
+                  <l>Bid now farewell unto thoſe houres, whoſe ſtrife</l>
+                  <l>With thriftleſſe joy hath ſpun a wearie life,</l>
+                  <l>A life of vanitie, whoſe very name</l>
+                  <l>Masketh the ornaments of Vertues fame;</l>
+                  <l>Yet deareſt ſoule returne, yet hearke to me,</l>
+                  <l>Yet be thou mindfull of eternitie;</l>
+                  <l>Yet heare poore Conſcience ſpeak, ſince time almoſt</l>
+                  <l>Hath run his ſwift-foot houres, and thou art loſt:</l>
+                  <l>Did I ſay loſt? Ah, Soule, th'rt happie then,</l>
+                  <l>If Earth could hide thee in her darkned Den:</l>
+                  <l>If thou wert loſt indeed from Heav'ns bright eye,</l>
+                  <l>If Death could ſhade thee in obſcuritie;</l>
+                  <l>If Earth, and Sea, and Hell, and Death ſhould winde thee,</l>
+                  <l>In their dark ſhadows, yet thy Judge would finde thee.</l>
+                  <l>And then, Oh then, the ſinner being found,</l>
+                  <l>How will the eyes of the Almightie wound</l>
+                  <l>Thy now condemned Soule? while thou before</l>
+                  <l>The high Tribunall howling, ſhalt implore</l>
+                  <l>Some Rock to over-ſhadow thee, yet deny'd</l>
+                  <l>That ſlender ſhelter; how wilt thou abide</l>
+                  <l>Before the dreadfull Throne, from whence ſhall come</l>
+                  <l>Thy damned Sentence of eternall Doome?</l>
+                  <l>And is this all? No; then thou ſhalt retire</l>
+                  <l>To never-quenched flames of furious fire,</l>
+                  <pb n="49" facs="tcp:44961:30"/>
+                  <l>Whoſe everlaſting fuell ſhall extend</l>
+                  <l>To all eternitie, and never end.</l>
+                  <l>In Hells darke, hideous, and hollow Vaule,</l>
+                  <l>(Where ſoules converſe with fiends) for ev'ry fault</l>
+                  <l>There is a ſev'rall plague: Gluttons are fed</l>
+                  <l>With ſcalding Lead and Brimſtone; and the dead</l>
+                  <l>Beſotted Drunkard, as he ev'ry day</l>
+                  <l>Drunke Healths to Hell, to paſſe the time away,</l>
+                  <l>So in eternall torment, endleſſe toyle,</l>
+                  <l>His throat is waſht with quaffes of burning oyle:</l>
+                  <l>The ſtubborn Child the wrathfull Furies hold,</l>
+                  <l>with long-tormenting laſhes;</l>
+                  <l>Th'Uſurer drinks whole Draughts of molten Gold:</l>
+                  <l>And there the cruell Murtherer doth lye,</l>
+                  <l>Alwayes a ſtabbing, yet can never dye:</l>
+                  <l>There lyes the Wanton, who Loves fire did feele,</l>
+                  <l>Stretcht upon tort'ring racks of burning Steele;</l>
+                  <l>Heat by eternall flames, blowne with the breaths</l>
+                  <l>Of thouſand thouſands never-dying deaths.</l>
+                  <l>Then deareſt Soule repent, 'tis not too late</l>
+                  <l>To beg for mercie, that moſt glorious Gate</l>
+                  <l>Is ſeldome ſhut; come ſpend thy after-yeares,</l>
+                  <l>If thou haſt any, in repenting teares;</l>
+                  <l>In true repenting teares bathe oft thy breſt,</l>
+                  <l>Let not thy ſlumber lull thee to thy reſt,</l>
+                  <l>Till thou haſt got a pardon: doſt thou know,</l>
+                  <l>How highly glorious is th'overthrow</l>
+                  <l>Of Sinne, and Death, and Hell? what royall favour</l>
+                  <l>Is in the lovely eyes of ſuch a Saviour?</l>
+                  <l>What chaſt imbraces, and what ſweet communion?</l>
+                  <l>What rare diſcoveries, what raviſht union?</l>
+                  <l>What preſent providence from Earths annoyes?</l>
+                  <l>What after-evidence of endleſſe joyes?</l>
+                  <l>What wiſe directions through threatning harmes<g ref="char:punc">▪</g>
+                  </l>
+                  <l>What ſafe protections in th'Almightie Armes</l>
+                  <l>Of ſuch a bleſſed Saviour, whoſe ſweet b<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </l>
+                  <l>Gives health in ſickneſſe, and a life in death?</l>
+                  <pb n="50" facs="tcp:44961:31"/>
+                  <l>And this would change thee, ſinner; this, ev'n this</l>
+                  <l>Would turne thy Cloſet to a Paradiſe:</l>
+                  <l>This ſweet Repentance would adorne thy face</l>
+                  <l>With Heavens amours, and with bluſhing grace</l>
+                  <l>For thy fore-paſt Rebellion; this would give</l>
+                  <l>A learned Preſident, how thou mightſt live</l>
+                  <l>To reigne in endleſſe glory; this would trie,</l>
+                  <l>If thou doſt live before thou com'ſt to die.</l>
+                  <l>Reade this third Chapter, mark but who they be</l>
+                  <l>That Heaven expoſeth to calamitie;</l>
+                  <l>The Prophet here cryes out, I am the man</l>
+                  <l>Whoſe back is gall'd with laſhes, therefore can</l>
+                  <l>Another looke for ſafetie? Shall Heavens Child</l>
+                  <l>Be loſt, be laſht, rejected, and revil'd</l>
+                  <l>Of the worlds Peacocks; and ſhalt not thou,</l>
+                  <l>A ſinner, feele the furrowes of his brow.</l>
+                  <l>See how their Land's defac'd, their Wives defil'd,</l>
+                  <l>How Famine kills, and brings the hungry Child</l>
+                  <l>To his untimely grave, whoſe friends are loſt;</l>
+                  <l>Virgins are raviſht, new borne Infants toſt</l>
+                  <l>Upon the ſouldiers Speares the women ript</l>
+                  <l>Up great with Child, and ſo the Babe is ſtript</l>
+                  <l>From th' Bed of his Creation: Elders lyes</l>
+                  <l>Having Deaths proſpect in their aged eyes,</l>
+                  <l>Imbracing lowly Earth with teares, to trave</l>
+                  <l>A little favour to finde out their Grave.</l>
+                  <l>See while their Citie burnes, their eyes are drown'd</l>
+                  <l>In ſtreames of flowing <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, they doe abound</l>
+                  <l>In fulneſſe, yet have wane: oh, aske not why;</l>
+                  <l>They long for life, and yet they wiſh to die;</l>
+                  <l>The tend'reſt love is mixed now with hate;</l>
+                  <l>They're full of people, yet are deſolate;</l>
+                  <l>They have ſome pleaſure, yet it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s but paine;</l>
+                  <l>Their gaine is loſſe, and yet their loſſe is gaine.</l>
+                  <l>For, from the thirtie Verſe of this third Chapter,</l>
+                  <l>Our eares ſometimes may drinke a heav'nly rapture</l>
+                  <pb n="51" facs="tcp:44961:31"/>
+                  <l>From the harmonious Spheres, which even then</l>
+                  <l>Dropt downe theſe Elegies from the Prophets pen,</l>
+                  <l>And tells the world, that Heav'n takes no delight</l>
+                  <l>To over-turne a mortall from his right</l>
+                  <l>On Earth; it is his wicked ſinfull wayes,</l>
+                  <l>That brings in Death, to cut his ſhort-liv'd dayes:</l>
+                  <l>Thus Love is mixt with anger, ſweets with ſowre,</l>
+                  <l>Joy midſt of ſorrow, weakneſſe matcht with powre;</l>
+                  <l>Honey is mingled with our poys'ned gall,</l>
+                  <l>Love with our Laſhers; Love's the cauſe of all.</l>
+                  <l>Love's in our labour, Love is in our loſſe;</l>
+                  <l>Love weares the Crowne, and Love muſt beare the Croſſe;</l>
+                  <l>Love makes our Union, Love's in our diviſion;</l>
+                  <l>Love's our direction, Love's in our deriſion;</l>
+                  <l>Love's in proſperitie, Loves in diſaſter;</l>
+                  <l>Love is our ſervant, and yet Love's our Maſter;</l>
+                  <l>Love ſeemes to be a foe, yet Love's a friend;</l>
+                  <l>Love did begin our woes, and Love will end</l>
+                  <l>Our diſmall dangers; Love commenc'd the fray,</l>
+                  <l>And Love will turne our Night to ſhining Day.</l>
+                  <l>Our Land had been too too unfortunate,</l>
+                  <l>Like ruin'd <hi>Sion,</hi> but that Love doth wait</l>
+                  <l>Upon the hand of Juſtice, and is Crown'd;</l>
+                  <l>Love gives a Salve, when Juſtice gives a Wound.</l>
+                  <l>What need we then grudge at Calamitie?</l>
+                  <l>What is Mortalitie to Eternitie?</l>
+                  <l>Since our beſt actions are but gilded ayre,</l>
+                  <l>And words are wav'ring winde: is it ſo rare</l>
+                  <l>For us to ſuffer trouble? doe we merit</l>
+                  <l>With our Rebellion? that we ſhould inherit</l>
+                  <l>The Palace of high Glory, and not thinke</l>
+                  <l>That Me<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s eyes will ſhut? Love ſomtimes winks,</l>
+                  <l>To trie our p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchas'd Graces, and to know</l>
+                  <l>Our beſt of carriage in the worſt of woe.</l>
+                  <l>But what's the cauſe then, that the Proph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t here,</l>
+                  <l>In the tumultuous ſtormes of trembling feare,</l>
+                  <pb n="52" facs="tcp:44961:32"/>
+                  <l>Doth pray againſt his foes? what, is it well,</l>
+                  <l>To crie our worſt of enemies downe to Hell?</l>
+                  <l>Yea, it is well; not as they are to us,</l>
+                  <l>Diſquiet, hatefull, baſe, malicious;</l>
+                  <l>For here, in ſtead of ſoes, they are our friends,</l>
+                  <l>While they conduct us to our journeyes ends</l>
+                  <l>The beſt and neereſt way; and then our breſt</l>
+                  <l>Doth more imbrace that undiſturbed reſt,</l>
+                  <l>In ſwelling ſoft eternitie; beſide,</l>
+                  <l>Our ſtrength of faith could not ſo well be try'd</l>
+                  <l>As by the force of envie: but as he</l>
+                  <l>Which is our foe is Heavens enemie,</l>
+                  <l>We ought to beg for his ſoone diſſolution,</l>
+                  <l>For his converſion, or for his confuſion.</l>
+                  <l>Even ſo let them all periſh, let each foe,</l>
+                  <l>O Lord, be daſht with one, one finall blow</l>
+                  <l>From thine Almightie Arme: as thou haſt made</l>
+                  <l>Them moving ſhadowes, ſo, much like a ſhade</l>
+                  <l>Let them ſoone vaniſh; let thine enemies die,</l>
+                  <l>And be forgot, like their loath'd memorie.</l>
+                  <l>And then, oh then, when the world ſhall behold</l>
+                  <l>The Droſſe is purged from the pureſt Gold,</l>
+                  <l>Which once was intermingled, then each knee</l>
+                  <l>Shall bow unto thy ſacred Majeſtie</l>
+                  <l>With lowly adoration, and thy Name</l>
+                  <l>Shall be exalted with eternall fame;</l>
+                  <l>And with a low incomparable grace,</l>
+                  <l>Thy Saints ſhall ſing in thy moſt holy place</l>
+                  <l>Thoſe raviſht <hi>Halelujahs;</hi> though we here</l>
+                  <l>Doe bathe our ſilent boſomes with a teare.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="53" facs="tcp:44961:32"/>
+               <head>CHAP. IV.</head>
+               <lg>
+                  <head>
+                     <hi>Verſe</hi> 1.</head>
+                  <l>HOw dull's the fineſt Gold? how quickly dim</l>
+                  <l>Is the bright Glory of that Diadem</l>
+                  <l>That once adorn'd <hi>Jeruſalems</hi> Browes in State?</l>
+                  <l>Where is the King, the Prieſt, and Potentate?</l>
+                  <l>Her Prieſts do faint, and in each corner ſwound;</l>
+                  <l>Thoſe orient Pearles are ſcatt'red on the ground,</l>
+                  <l>As if they were moſt needleſſe; high and low</l>
+                  <l>Doe all fall blaſted, to compleat our woe.</l>
+               </lg>
+               <lg>
+                  <head>(2)</head>
+                  <l>Where are thoſe Noble Worthies Fame preſents,</l>
+                  <l>Sonnes of high honour, Natures ornaments,</l>
+                  <l>And <hi>Sions</hi> glory; in whoſe ſerious eye</l>
+                  <l>Knowledge was ſeated in high Majeſtie,</l>
+                  <l>To judge each looſe offender? Ah me! may</l>
+                  <l>Such Clouds of Thunder now be Clods of Clay?</l>
+                  <l>Can the high Potter make ſuch Veſſels poore?</l>
+                  <l>Away vaine honour, and delude no more.</l>
+               </lg>
+               <pb n="54" facs="tcp:44961:33"/>
+               <lg>
+                  <head>(3)</head>
+                  <l>Is Love and Nature baniſht and exil'd?</l>
+                  <l>Can the fond Mother once forget her Child?</l>
+                  <l>She can, and will, ſhe does: Oh wondrous ſtrange!</l>
+                  <l>How doth the Glory of <hi>Jeruſalem</hi> change?</l>
+                  <l>The careleſſe Oſtridge, and the ſwiniſh Bore,</l>
+                  <l>The poys'nous Dragon, and the Lyons roſe</l>
+                  <l>For lack of food, yet give their young the breſt,</l>
+                  <l>But Famine lulls theſe Babes to endleſſe reſt.</l>
+               </lg>
+               <lg>
+                  <head>(4)</head>
+                  <l>Alas, poore Babe, why doth thy dying ſoule</l>
+                  <l>Strive to live longer, and thy heart controule</l>
+                  <l>Deaths ſummons to the grave, whoſe aſhie hand</l>
+                  <l>Shall paſſe thy ſoule into the promis'd Land?</l>
+                  <l>His tongue is parcht with thirſt, he cannot ſpeake,</l>
+                  <l>He would implore ſome Bread, but none wil breake</l>
+                  <l>It to his pining ſoule; at laſt his eye</l>
+                  <l>Is clos'd, in ſlumbring endleſſe Lullaby.</l>
+               </lg>
+               <lg>
+                  <head>(5)</head>
+                  <l>How is our labour Alchymiz'd to loſſe?</l>
+                  <l>How is our Gold and Silver turn'd to droſſe?</l>
+                  <l>How is our Beautie metamorphos'd? how</l>
+                  <l>Doth furious Famine furrow up our brow?</l>
+                  <l>He that did feed in Silver, dranke in Gold,</l>
+                  <l>Now ſtarv'd for hunger, almoſt pin'd with Cold;</l>
+                  <l>And ſhe that once could boaſt of honor'd birth,</l>
+                  <l>Lyes now imbracing of her Mother Earth.</l>
+               </lg>
+               <pb n="55" facs="tcp:44961:33"/>
+               <lg>
+                  <head>(6)</head>
+                  <l>And is there nor a Cauſe, oh wretched wee,</l>
+                  <l>That we are follow'd with Calamitie?</l>
+                  <l>Are not our ſinnes more great then <hi>Sodomes</hi> Cryes,</l>
+                  <l>Which pierc'd the Ayre, and fill'd the Azure Skyes</l>
+                  <l>With Clouds of dreadfull Thunder? Goods and Names,</l>
+                  <l>In the deſcending and aſpiring flames,</l>
+                  <l>Were burnt to aſhes in a haſtie howre,</l>
+                  <l>By the Almighties unreſiſted powre.</l>
+               </lg>
+               <lg>
+                  <head>(7)</head>
+                  <l>Thoſe comely <hi>Nazarites,</hi> whoſe lovely faces</l>
+                  <l>Reſembled Snow, inricht with am'rous graces</l>
+                  <l>Of uncontroubled Love, and were more red</l>
+                  <l>Then poliſht Saphir; on whoſe hoarie head</l>
+                  <l>Were threds of tangled Gold in ſtead of haire,</l>
+                  <l>Where Love united Art, Neglect, and Care;</l>
+                  <l>Love, Art, and Beautie, Honour, Grace, and Wit,</l>
+                  <l>Were the indowments of a <hi>Nazarite.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>(8)</head>
+                  <l>How quickly are they blaſted? even now</l>
+                  <l>Deformitie hangs lurking on that brow,</l>
+                  <l>That was a while ſo faire, now black as coales,</l>
+                  <l>Pin'd with the anguiſh of their hungry ſoules;</l>
+                  <l>Love is deformed, Grace is unregarded,</l>
+                  <l>Wiſdome deſpiſed, Honour unrewarded,</l>
+                  <l>Their skin is with'ted; now the <hi>Nazarite</hi> he</l>
+                  <l>Is a black embleme of Deformitie.</l>
+               </lg>
+               <pb n="56" facs="tcp:44961:34"/>
+               <lg>
+                  <head>(9)</head>
+                  <l>There are degrees in Death, yet all doe tend</l>
+                  <l>To uſher man unto his journeyes end:</l>
+                  <l>Some die for love, and ſome by hate doe die;</l>
+                  <l>Some end their dayes through pining povertie,</l>
+                  <l>And ſome by too much riches: ſome, the Sword</l>
+                  <l>Doth part in ſunder; others, by a word</l>
+                  <l>Receive their Deaths alarum: all muſt fall,</l>
+                  <l>But Death by Famine is the worſt of all.</l>
+               </lg>
+               <lg>
+                  <head>(10)</head>
+                  <l>A Feaſt is made for mirth, but mourners ſhall</l>
+                  <l>Attend our Banquet to our Funerall,</l>
+                  <l>And ſee the tender Mother, full of feares,</l>
+                  <l>Bathing her Infant with her watrie teares;</l>
+                  <l>Yet muſt ſhe kill the prettie harmeleſſe Dove,</l>
+                  <l>The Lawes of Famine blot the Line of Love:</l>
+                  <l>Go ſweet-fac'd Babe, this feaſt was not for laughter,</l>
+                  <l>Thou go'ſt before, thy Parents follow after.</l>
+               </lg>
+               <lg>
+                  <head>(11)</head>
+                  <l>Come, let's be ſad, O <hi>Sion,</hi> let our eyes</l>
+                  <l>Pumpe flouds of teares, to drowne this ſacrifice</l>
+                  <l>Of indignation, leſt th'aſpiring flames</l>
+                  <l>Lick up our Kingdome, and conſume our names;</l>
+                  <l>The Sword doth range, and now the fire doth climbe</l>
+                  <l>To meet the Starres, and ſcorch the wings of Time;</l>
+                  <l>The proudeſt Pinacle, and the higheſt Towre,</l>
+                  <l>Is farre too weake to grapple with their Powre.</l>
+               </lg>
+               <pb n="57" facs="tcp:44961:34"/>
+               <lg>
+                  <head>(12)</head>
+                  <l>Come, let's be ſad, Oh <hi>Sion,</hi> while our teares</l>
+                  <l>Confute the Nations that were full of jeeres:</l>
+                  <l>Why was the darkned world ſo blinded? why</l>
+                  <l>Did the proud King thinke Heav'n would falſifie?</l>
+                  <l>Why would you not believe, that the high hand</l>
+                  <l>Of pow'rfull <hi>Babylon</hi> ſhould take our Land?</l>
+                  <l>Know now, vaine mortals, Heav'n's not like to you,</l>
+                  <l>For he is faithfull, holy, juſt, and true.</l>
+               </lg>
+               <lg>
+                  <head>(13)</head>
+                  <l>Oh ſinn, now haſt thou drawne thy Curtain round</l>
+                  <l>The darkned world? and how are mortals drownd</l>
+                  <l>In thy in chanting ſtreames? the Prophet lyes,</l>
+                  <l>The Prieſts are fooliſh that are counted wiſe,</l>
+                  <l>The wiſe and hardie ſinners courage cooles,</l>
+                  <l>And thoſe are wiſeſt that are counted fooles:</l>
+                  <l>Ev'n the jeſt man, although he ſuffer here,</l>
+                  <l>The day of his Redemption draweth neere.</l>
+               </lg>
+               <lg>
+                  <head>(14)</head>
+                  <l>Have you beheld the blind, with what a pace</l>
+                  <l>He walks along, guarding his tender face</l>
+                  <l>And body with his ſtaffe, for feare of hurt,</l>
+                  <l>And yet at laſt he tumbleth in the durt?</l>
+                  <l>Thus blind men wandred, and for want of eyes</l>
+                  <l>They tumble in the bloudie ſacrifice</l>
+                  <l>Of many a bleeding body, which by hate</l>
+                  <l>Were hurt and ſlaine, poore, vile, unfortunate.</l>
+               </lg>
+               <pb n="58" facs="tcp:44961:35"/>
+               <lg>
+                  <head>(15)</head>
+                  <l>Depart, polluted <hi>Iſrael,</hi> cry the foes, depart</l>
+                  <l>From <hi>Sions</hi> territories; ſet not your heart</l>
+                  <l>Upon her glory, that ſo quickly dyes;</l>
+                  <l>Your feet, your hands, and your unhallowed eyes</l>
+                  <l>Are too unholy; now no prayers will pierce</l>
+                  <l>Th'eares of Heaven, the ſpacious Univerſe</l>
+                  <l>Will give you no proſperitie; for why,</l>
+                  <l>Sinne is the cauſe that makes mans glory die.</l>
+               </lg>
+               <lg>
+                  <head>(16)</head>
+                  <l>Dare man, that feeble Worme, and tranſitorie</l>
+                  <l>Forgotten Dreame, thinke it a piece of glory,</l>
+                  <l>To warre againſt th'Almightie? Can he make</l>
+                  <l>The Earth to tremble, or by Power ſhake</l>
+                  <l>The fabrick of the World, or blaſt the name</l>
+                  <l>Of the proud enemie, in their height of fame?</l>
+                  <l>But as you have begun your miſchiefe, ſo</l>
+                  <l>The Lord ſhall make an end, preſumptious fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <head>(17)</head>
+                  <l>How blind are our vaine eyes with ſolly? Can</l>
+                  <l>There be a certaine help from helpLeſſe man?</l>
+                  <l>We thought th' <hi>Aegyptians</hi> Armie ſure would ſave</l>
+                  <l>Our ſtarved bodies from the hungry grave,</l>
+                  <l>But they were weake; and now our foes affaile us,</l>
+                  <l>Our foes offend us, and our friends doe faile us:</l>
+                  <l>Can any mortall ſave himſelfe from harme?</l>
+                  <l>Put then no truſt (O man) in thy weake arme.</l>
+               </lg>
+               <pb n="59" facs="tcp:44961:35"/>
+               <lg>
+                  <head>(18)</head>
+                  <l>Like tyred Harts we are inſnared round</l>
+                  <l>With light-foot Hunters, and the following Hound,</l>
+                  <l>And now our tyred ſoules, for lack of breath,</l>
+                  <l>Yield themſelves pris'ners to purſuing Death:</l>
+                  <l>Our Sunne is ſet, the laboring ſands are run</l>
+                  <l>From Times ſwift Hower-glaſſe, our Day is done:</l>
+                  <l>'Tis done indeed, Time alwayes did attend us,</l>
+                  <l>Time did begin us, therefore Time muſt end us.</l>
+               </lg>
+               <lg>
+                  <head>(19)</head>
+                  <l>The Ioftie Eagle, in his high Carriere,</l>
+                  <l>Aſpires to touch the ſtarrie Hemiſphere,</l>
+                  <l>And in his height of pride, he faine would be</l>
+                  <l>Inheriter of <hi>Luna's</hi> Canopie;</l>
+                  <l>Eagles are not ſo ſwift, to make their way</l>
+                  <l>Through the light Ayre, as is this Ball of Clay,</l>
+                  <l>This uncollected man, whoſe hate doth meet</l>
+                  <l>My wandring foot-ſteps in the deſolate ſtreet.</l>
+               </lg>
+               <lg>
+                  <head>(20)</head>
+                  <l>The King, our Royall King, our verybreath,</l>
+                  <l>Was a ſad offring, ſacrific'd to death,</l>
+                  <l>Whoſe down fall ſinkes our ſoules; yet what was he,</l>
+                  <l>But a weake embleme of mortalitie?</l>
+                  <l>His dignitie a dreame, his honour fades</l>
+                  <l>Like morning ſhadowes, or the ev'ning ſhades;</l>
+                  <l>Hath Wealth, Health, Honor, and Preferment wings?</l>
+                  <l>So have their hopes, that put their truſt in Kings.</l>
+               </lg>
+               <pb n="60" facs="tcp:44961:36"/>
+               <lg>
+                  <head>(21)</head>
+                  <l>And now, Oh <hi>Edom,</hi> joy falls thick on joy</l>
+                  <l>On thy poore ſelfe; our torments were a toy</l>
+                  <l>To thee; laugh on, or rather learne to ſteepe</l>
+                  <l>Thy ſoule in ſorrow, teach thine eyes to weepe:</l>
+                  <l>O Land of <hi>
+                        <g ref="char:V">Ʋ</g>z,</hi> the Cup comes o'r to thee,</l>
+                  <l>The Cup of Poyſon and Calamitie;</l>
+                  <l>The world, the <hi>Edom</hi> which did ring thy name,</l>
+                  <l>Shall ſee the ſorrow of a ſinners ſhame.</l>
+               </lg>
+               <lg>
+                  <head>(22)</head>
+                  <l>But, gentle <hi>Sion,</hi> now the Heav'ns are cleare,</l>
+                  <l>The morning riſeth, and thy darkned ſeare</l>
+                  <l>Is ſet, the glorious luſtre of Heav'ns eye</l>
+                  <l>Diſperſeth darkneſſe from th'Orient Skie:</l>
+                  <l>Our Woe is paſt, but <hi>Edom</hi> next muſt be</l>
+                  <l>Our following fellowes to Captivitie;</l>
+                  <l>Whoſe ſad deſtruction to the world will ſhow</l>
+                  <l>A ſecond mourning Monument of Woe.</l>
+               </lg>
+            </div>
+            <div n="4" type="contemplation">
+               <pb n="61" facs="tcp:44961:36"/>
+               <head>CONTEMPLATION IV.</head>
+               <lg>
+                  <l>HOw Orient is bright <hi>Phoebus</hi> in each Ray,</l>
+                  <l>Promiſing the glory of a Sun-ſhine Day</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſome bright new-borne Morning? but ere he</l>
+                  <l>Aſpires the height of Heavens Canopie,</l>
+                  <l>O'r-rid in higheſt Noone, his beautie ſhrouds</l>
+                  <l>It ſelfe in ſable Curtaines of darke Clouds,</l>
+                  <l>The Heavens now looke angry, and the Aire,</l>
+                  <l>That was ſo calme, ſo cleare, ſo pleaſant, faire,</l>
+                  <l>Is dreſt with horrid darkneſſe, while in ſunder</l>
+                  <l>The Spheres do ſeem to rend with claps of thunder,</l>
+                  <l>And dreadfull firie flaſhes, which doe flie</l>
+                  <l>More ſwift then thought along the darkned Skie.</l>
+                  <l>Ah world! thus various art thou, and thus ſtrange?</l>
+                  <l>Thus apt to alter, and thus apt to change?</l>
+                  <l>Thus oft doſt promiſe, and more oft doſt breake,</l>
+                  <l>While thou pretendeſt power, and yet art weake?</l>
+                  <l>Sometimes thou haſt a Smile, ſometimes a Frowne;</l>
+                  <l>Sometimes thou ſett'ſt us up, then pull'ſt us downe;</l>
+                  <l>Sometimes th'Heavens are cleare, and ſometimes darke,</l>
+                  <l>The Morning calme, yet in th'Evening hearke</l>
+                  <l>What ſhowres and dreadfull thunder-cracks there be,</l>
+                  <l>Ere <hi>Phoebus</hi> cooles him in the Weſterne Sea:</l>
+                  <l>Sometimes we have our health, and eaſe; then, oh,</l>
+                  <l>A little ſickneſſe brings us wondrous low;</l>
+                  <l>Sometimes w'have wealth, and then our winged ſtore,</l>
+                  <l>Like Hawkes, flye from our fiſt, and we are poore</l>
+                  <pb n="62" facs="tcp:44961:37"/>
+                  <l>In a ſhort moment; ſorrow comes too ſoone</l>
+                  <l>Upon the back of joy, and like the Moone</l>
+                  <l>We varie: ſometimes Love makes Envie ceaſe,</l>
+                  <l>Sometimes we live in Warre, ſometimes in Peace;</l>
+                  <l>We riſe aloft, we aſpire, we ſit on high,</l>
+                  <l>Then we deſcend, deceaſe, lye downe and die.</l>
+                  <l>The often changing of the various weather,</l>
+                  <l>Is a true embleme; whither wilt thou, whither,</l>
+                  <l>O Earth, conduct us? but, me thinkes, our eye</l>
+                  <l>Knowes too too well thy various vanitie.</l>
+                  <l>And for our preſident, poore <hi>Sions</hi> loſſe</l>
+                  <l>Will teach us well, their Gold was turn'd to droſſe,</l>
+                  <l>Their precious ſtones to pebles, and their place</l>
+                  <l>A ruin'd heape, their honour to diſgrace;</l>
+                  <l>Their fulneſſe now is Famine, and their Soyle</l>
+                  <l>Is barren too, their pleaſure is a ſpoyle;</l>
+                  <l>Their beautie is deformitie, their power</l>
+                  <l>Is weake, and in few waſte and flying houres</l>
+                  <l>The hope of Earths eternitie's cut off,</l>
+                  <l>The Land is loſt, the Kingdome is a ſcoffe</l>
+                  <l>To the wide Univerſe, their Comedie</l>
+                  <l>Is metamorphos'd to a Tragedie,</l>
+                  <l>Their higheſt dignitie is diſregarded,</l>
+                  <l>Their wiſdome ſlighted, honour unrewarded.</l>
+                  <l>What Nation fought with greater braverie</l>
+                  <l>Then warlike <hi>Iſr'el,</hi> which their foes ſlaverie</l>
+                  <l>Could often maniſeſt? what Valour might</l>
+                  <l>Be matcht to theirs, while in each bloudie fight</l>
+                  <l>Each long'd to be the formoſt, to inga<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </l>
+                  <l>A troupe of Lyons in their rampant rage,</l>
+                  <l>Was a poore ſigure of their noble hearts,</l>
+                  <l>While Heav'n was darkned with thoſe numerous darts</l>
+                  <l>That flew along the Ayre, backt with the breath</l>
+                  <l>Of Furie, and each Arrow ript with Death.</l>
+                  <l>There might you heare the wounded Heathen, crie</l>
+                  <l>To their falſe gods, while that the blaſhing Skie</l>
+                  <pb n="63" facs="tcp:44961:37"/>
+                  <l>Did eccho their implorement, th'Earth being hid</l>
+                  <l>With heaps of murthred Heathens; here a head</l>
+                  <l>Lyes tumbling, while the baſe unwor thy braine</l>
+                  <l>Is found too fooliſh to be knit againe</l>
+                  <l>Unto the for lorne ſhoulders, or complie</l>
+                  <l>In any Plot, or trecherous Villanie.</l>
+                  <l>Not farre from that, there lyes a Hand and Arme,</l>
+                  <l>With ſignes of peace, too feeble for a harme</l>
+                  <l>Againſt poore <hi>Sion;</hi> there a Leg doth lye,</l>
+                  <l>Which ſhould have ſerv'd his Maſter for to flye</l>
+                  <l>To ſome ſtrong Rock of Reſuge; now the day</l>
+                  <l>Hath croſt his ſpeed, he cannot run away:</l>
+                  <l>There was brave Gallantry in <hi>Iſraels</hi> eye,</l>
+                  <l>Each ſtrove with honour who the firſt ſhould dye;</l>
+                  <l>Fighting on heapes of their bemang led foes,</l>
+                  <l>They made renowne to wait upon their blowes;</l>
+                  <l>Where in the Clouds of Darts, with winged ſpeed</l>
+                  <l>Death gallop'd through the Armies with a Reed,</l>
+                  <l>To meaſure out the Graves of them which hee</l>
+                  <l>Had ſent to wander to eternitie.</l>
+                  <l>Thus valiant <hi>Iſrael,</hi> who now doth yield,</l>
+                  <l>Hath ſlaine their threeſcore thouſand in a field;</l>
+                  <l>While Heav'n did ead them, then high <hi>Iſr'els</hi> name</l>
+                  <l>Rode on the wings of everlaſting fa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e;</l>
+                  <l>The Starres did light in order, and the Moone</l>
+                  <l>Stood ſtill, and in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> height of Noone</l>
+                  <l>Sw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ft <hi>Phoebus</hi> did his <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Horſes ſtay</l>
+                  <l>From t<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Careere and length'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed out the day,</l>
+                  <l>To ſee thoſe games of Death p<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>y'd, where each blow</l>
+                  <l>Fore-told the enemie of his ov<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>hr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w.</l>
+                  <l>But where's that Valour n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w that Royaltie</l>
+                  <l>So quickly turn'd into <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>?</l>
+                  <l>What, ſlav'd themſelves <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſerve ev'n them</l>
+                  <l>Which once were ſervants to <hi>Jeruſalem?</hi>
+                  </l>
+                  <l>What, muſt their Crowne be vail'd muſt they goe downe,</l>
+                  <l>While Heathens arch their temples with their Crowne'</l>
+                  <pb n="64" facs="tcp:44961:38"/>
+                  <l>Are they ſubdued by the Conquered,</l>
+                  <l>And muſt the blind man by the blind be led?</l>
+                  <l>If this be true, this Motto then makes knowne,</l>
+                  <l>Thy power was Heavens <hi>(Sion)</hi> not thine owne;</l>
+                  <l>And hadſt thou been obedient to his will,</l>
+                  <l>Thy warlike arme might have ſubdued ſtill</l>
+                  <l>Thoſe thy unconquer'd foes: then, like a Bride,</l>
+                  <l>Heaven would have guarded, lov'd, and dignifi'd</l>
+                  <l>His owne peculiar people; then his Arme</l>
+                  <l>Would have imbrac'd thee, and have baniſht harme</l>
+                  <l>From theſe thy ruin'd Borders; then his Eye</l>
+                  <l>Had lov'd thee with Celeſtiall jealouſie.</l>
+                  <l>Ah, holy Land, if thou wert ruin'd thus,</l>
+                  <l>How ſhall we fare, what ſhall become of us?</l>
+                  <l>If thou wert ſmitten, as the Prophets pen</l>
+                  <l>Doth manifeſt, we monumonts of men,</l>
+                  <l>Drunke with the wine of ſolly, how ſhall we</l>
+                  <l>Eſcape from a more doleſome Tragedie?</l>
+                  <l>I often reade, <hi>Iſrael</hi> was of one minde,</l>
+                  <l>But <hi>Englands</hi> wayes are wav'ring, like the winde;</l>
+                  <l>
+                     <hi>Iſrael</hi> was circumſpect, and ſerious,</l>
+                  <l>But <hi>England</hi> blinde, unconſtant, various:</l>
+                  <l>Their Armies fought like one, one armed man,</l>
+                  <l>We numerous multitudes of Diviſions; can</l>
+                  <l>We looke for peace in this diſtracted mould,</l>
+                  <l>Not knowing who to helpe, nor where to hold.</l>
+                  <l>The Citizens implore the Armies may</l>
+                  <l>Disband, the valiant Souldier askes his pay</l>
+                  <l>Ere he layes downe; ſome fooliſh fellowes fling</l>
+                  <l>Libels abroad, of Loyaltie to the King;</l>
+                  <l>But it is falſe: alas, their wicked aime</l>
+                  <l>Is to involve the Citie in a flame.</l>
+                  <l>A fourth Contriver, with his ſhallow crowne,</l>
+                  <l>Holds beſt to pull the two Aſſemblyes downe;</l>
+                  <l>He rayles againſt the Peeres and Commons too,</l>
+                  <l>Reviles them all, yet cannot tell you who</l>
+                  <pb n="65" facs="tcp:44961:38"/>
+                  <l>It is that doth diſturbe him: others chat</l>
+                  <l>Againſt Divines, yet cannot tell for what;</l>
+                  <l>Another he would have new Members choſe,</l>
+                  <l>And yet he knowes no ill by none of thoſe;</l>
+                  <l>The reſt would have a new <hi>Militia</hi> hold,</l>
+                  <l>Yet can they finde no fault againſt the old:</l>
+                  <l>Thus, in their various mindes, and mutinies,</l>
+                  <l>The people fall to Contrarieties.</l>
+                  <l>The poore would have Meat at a lower rate,</l>
+                  <l>But that the Farmers and the Butchers hate</l>
+                  <l>Should ever take effect: ſome thinke, that Beere</l>
+                  <l>Is brew'd too ſmall, and that 'tis ſold too deere:</l>
+                  <l>But him the Victualler doth ſoone adviſe</l>
+                  <l>To be content, becauſe they pay Exciſe.</l>
+                  <l>Another ſayes, did not the rich men ſweepe</l>
+                  <l>Up all the Cloth, Clothes would be better cheape;</l>
+                  <l>And him the Clothier preſently perſwades,</l>
+                  <l>Wer't not for theſe, they could not keepe their Trades.</l>
+                  <l>The Courtier he doth out of zeale defie</l>
+                  <l>The Parliament, ſweares he's for's Majeſtie;</l>
+                  <l>One cryes him up, another cryes him downe;</l>
+                  <l>A third would have the Prince to wear the Crowne;</l>
+                  <l>A fourth will none of that, ſayes 'tis a thing</l>
+                  <l>Not needfull, that there ſhould be any King.</l>
+                  <l>The <hi>Separate</hi> rayles at all the Prieſts attendants,</l>
+                  <l>The <hi>Presbyterian</hi> checks the <hi>Independants:</hi>
+                  </l>
+                  <l>Alas, ſayes one, how could we ever looke</l>
+                  <l>For better times, ſince that the holy <hi>Booke</hi>
+                  </l>
+                  <l>
+                     <hi>Of Common Prayer</hi> went down? then thoſe that went</l>
+                  <l>But for a <hi>Token,</hi> had the <hi>Sacrament:</hi>
+                  </l>
+                  <l>What, are we wiſer then our Fathers? they</l>
+                  <l>Without the <hi>Service-Booke</hi> would never pray.</l>
+                  <l>But now this fellow's ſilenc'd by another,</l>
+                  <l>That thinks he's ſomewhat wiſer then the other:</l>
+                  <l>Quoth he, what diff'rence 'twixt the Church and Stable?</l>
+                  <l>The <hi>Service-Booke</hi> was moſt abominable,</l>
+                  <pb n="66" facs="tcp:44961:39"/>
+                  <l>A Librarie ſent from <hi>Rome,</hi> wherein was't rare,</l>
+                  <l>They pray'd for foule weather when we ſhould have faire:</l>
+                  <l>And why is humane Learning thus affected?</l>
+                  <l>The <hi>Seribes</hi> and <hi>Phariſes</hi> they were neglected</l>
+                  <l>By our deare Saviour, he caſt lovely eyes</l>
+                  <l>Upon the ſimple, and refus'd the wiſe.</l>
+                  <l>And thus, good Reader, there is no confuſion</l>
+                  <l>Like that, which hath ſuch ſtrong deluſion</l>
+                  <l>Of liking and diſliking; ſome diſprayſe</l>
+                  <l>The man, whom others would have Fortune rayſe</l>
+                  <l>To high preferment: Ah, what hath our Lands,</l>
+                  <l>But double tongues, falſe hearts, divided hands,</l>
+                  <l>And a diſtracted braine, a poys'nous breath</l>
+                  <l>Of Envie, and a life expecting death,</l>
+                  <l>Or death in midſt of life? oh, why are wee</l>
+                  <l>The onely Monuments of Miſerie?</l>
+                  <l>Moſt bleſſed Faith and Love, you never varie</l>
+                  <l>From your firſt bleſſedneſſe, nor act contrarie</l>
+                  <l>Unto your bleſſed Natures from above,</l>
+                  <l>Love dotes on Faith, and Faith ingendreth Love.</l>
+                  <l>O glorious God, thy Saints ne'r diſagree</l>
+                  <l>In Heav'n, when they poſſeſſe high dignitie,</l>
+                  <l>Loves Banner is diſplay'd about thy Throne,</l>
+                  <l>Thy holy Angels are no more then one:</l>
+                  <l>But man (oh that wretch man) is like th'Ocean,</l>
+                  <l>Who now is calme, and hath a gentle motion,</l>
+                  <l>And in a moment makes his billowes runne</l>
+                  <l>Aloft, and ſhoots his ſurges at the Sunne.</l>
+                  <l>And ſince Diviſions to deſtructions tend,</l>
+                  <l>What followes ruin'd <hi>England,</hi> but her end?</l>
+                  <l>Ceaſe then, oh <hi>England,</hi> from this pitch of Pride,</l>
+                  <l>And end, oh, ſad Diviſions end beſide</l>
+                  <l>Your ſelves; Earths Power, Device, and all</l>
+                  <l>The helpe of Hell can never worke our fall.</l>
+                  <l>Come ſweet-fac'd Vertue, come, and baniſh Vice;</l>
+                  <l>Come Union, make our Land Earths Paradiſe;</l>
+                  <pb n="67" facs="tcp:44961:39"/>
+                  <l>Come Loves triumphant Lawes, and you ſhall be</l>
+                  <l>The Preſidents of our Tranquilitie.</l>
+                  <l>You orient glitt'ring Pearles, that Earth count Toyes,</l>
+                  <l>Shew us ſome glances of Celeſtiall joyes,</l>
+                  <l>By Vertues raritie; Truth, Peace, and Love,</l>
+                  <l>You are thoſe Siſters which doe dwell above,</l>
+                  <l>Archt in the higheſt Glory, are no leſſe</l>
+                  <l>Then Royall Twins in matchleſſe bleſſedneſſe.</l>
+                  <l>Oh, if our blackneſſe may not blaſt your bloome,</l>
+                  <l>Or if our ſtamm'ring words may finde a roome</l>
+                  <l>In your moſt ſacred eares, let Truth expell</l>
+                  <l>Thoſe damned Errors that ariſe from Hell,</l>
+                  <l>And let harmonious Peace heale up our Skarre,</l>
+                  <l>And give a counter-mand to threatning Warre;</l>
+                  <l>And then the laſt and lovelieſt of the three,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et Beautie looke upon Deformitie,</l>
+                  <l>And make us like to you: oh, let our ſhame</l>
+                  <l>Love your bleſt memorie in immortall fame;</l>
+                  <l>And as you move in your harmonious Spheares,</l>
+                  <l>So guide our earthly bodies; let our teares</l>
+                  <l>Waſh off Deformitie, which did annoy,</l>
+                  <l>Make us an embleme of Loves higheſt joy;</l>
+                  <l>Or elſe we ſhall (if not by you thus bleſt)</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine out thoſe dayes we number to our reſt.</l>
+               </lg>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="68" facs="tcp:44961:40"/>
+               <head>CHAP. V.</head>
+               <lg>
+                  <head>
+                     <hi>Verſe</hi> 1.</head>
+                  <l>REmember, Lord, our evils, let them be</l>
+                  <l>Character'd in Gold, in thy bleſt Memorie,</l>
+                  <l>That laſting Regiſter, that righteous Scroule;</l>
+                  <l>Conſcience, Vice-royall to th'immortall Soule,</l>
+                  <l>Shall ſtand to witneſſe, while the ſinner cryes</l>
+                  <l>To ſome vaſt mountaine, to eclipſe his eyes</l>
+                  <l>From the Tribunall Throne; then, Lord, make roome</l>
+                  <l>For Furie, let th'enemie have his doome.</l>
+               </lg>
+               <lg>
+                  <head>(2)</head>
+                  <l>Our faire Inheritance, like a ſhort Song,</l>
+                  <l>Is done, and gone, and thus we paſſe along;</l>
+                  <l>Like Times benighted Shadowes, ſo are we</l>
+                  <l>Tyred in purſuit of Earths Vanitie,</l>
+                  <l>Yea, Vanitie indeed: were it not thus,</l>
+                  <l>Why is the world ſo conſtant various?</l>
+                  <l>Why ſhould our Houſes, Vineyards, and our paine,</l>
+                  <l>Be our inraged enemies preſent gaine.</l>
+               </lg>
+               <pb n="69" facs="tcp:44961:40"/>
+               <lg>
+                  <head>(3)</head>
+                  <l>Our deareſt Fathers, in their honoured Age,</l>
+                  <l>By Death were ſummon'd from Earths troubled Stage,</l>
+                  <l>And now they ſlumber, now they reſt, and lye</l>
+                  <l>Rockt in Deaths Chariot, with loſt Lullaby:</l>
+                  <l>Our tender Mothers having loſt their Loves,</l>
+                  <l>Mourne like th'amorous Widow'd Turele-Doves;</l>
+                  <l>And we their ſonnes, who live in deſolate Tents,</l>
+                  <l>Are ſilent Ruines of their Monuments.</l>
+               </lg>
+               <lg>
+                  <head>(4)</head>
+                  <l>The pleaſant Rivers, whoſe ſweet eryſtall ſtreames</l>
+                  <l>Refreſht our ſoules with plentie, like the beames</l>
+                  <l>Of orient <hi>Phoebus,</hi> when he makes his way</l>
+                  <l>To cloathe all mortals with a Sun-ſhine day;</l>
+                  <l>Yet theſe our Waters and our Wood is ſold</l>
+                  <l>By weight and meaſure for the price of Gold,</l>
+                  <l>Nay, more then Gold, our Bondage, that may tell</l>
+                  <l>Coyne with affliction hath no paralell.</l>
+               </lg>
+               <lg>
+                  <head>(5)</head>
+                  <l>The almoſt-tyred Horſe would reſt his Load</l>
+                  <l>From his gall'd ſhoulders in the duſtie Road,</l>
+                  <l>But for the Driver; thus poore we would borrow</l>
+                  <l>An inch of reſpit, for an age of ſorrow:</l>
+                  <l>We are as Horſes to th'eitlemies yoakes,</l>
+                  <l>Laden with burthens, and purſu'd with ſtroakes</l>
+                  <l>Of our foes envie; now we know how bleſt</l>
+                  <l>Is the rare royaltie of purchas'd Reſt.</l>
+               </lg>
+               <pb n="70" facs="tcp:44961:41"/>
+               <lg>
+                  <head>(6)</head>
+                  <l>What heapt-up Plentie had our flouriſht Land</l>
+                  <l>Once for to glory in, when her high hand</l>
+                  <l>Was ſtretcht to other Nations in reliefe?</l>
+                  <l>For wealth and honour ſhe was counted chiefe</l>
+                  <l>Among Earths Royall Princes; now even ſhe,</l>
+                  <l>Of late inthroned in Earths Majeſtie,</l>
+                  <l>Is ſold to <hi>AEgypt,</hi> and to <hi>Aſhur,</hi> ſo</l>
+                  <l>We earne our bread, to linger out our woe.</l>
+               </lg>
+               <lg>
+                  <head>(7)</head>
+                  <l>And it is juſt we ſhould ſo, while that we</l>
+                  <l>Live in knowne Folly and Iniquitie:</l>
+                  <l>Our Fathers they have ſinn'd, we bear their Names,</l>
+                  <l>And their Rebellion, and why not their ſhames?</l>
+                  <l>Our Fathers finn'd, and dy'd, and are we better</l>
+                  <l>Then our fore-fathers? was not man a debter</l>
+                  <l>Since th'old words Creation, by folly? why</l>
+                  <l>Doth ſinfull man then thinke ſo much to die?</l>
+               </lg>
+               <lg>
+                  <head>(8)</head>
+                  <l>What in the world is more accounted vaine,</l>
+                  <l>Then ſervants for to rule, or fooles to raigne</l>
+                  <l>Over th'honour'd Age? even ſuch are we,</l>
+                  <l>While we are captiv'd to Captivitie:</l>
+                  <l>Thus Earth is various, and mans renowne</l>
+                  <l>Is but a Dreame, not worth the writing downe;</l>
+                  <l>And if his glory be an idle Theame,</l>
+                  <l>Who can expect realitie in a Dreame?</l>
+               </lg>
+               <pb n="71" facs="tcp:44961:41"/>
+               <lg>
+                  <head>(9)</head>
+                  <l>Famine is feeble, yet the hungry ſoule</l>
+                  <l>Is ſtrong and valiant, and he dares controule</l>
+                  <l>A thouſand eminent dangers, if that he</l>
+                  <l>May feed his hunger and neceſſitie:</l>
+                  <l>Thus with the perill of our deareſt breath,</l>
+                  <l>We got our living in the ſpight of death,</l>
+                  <l>In bondage, ſlaverie, labour, toyle, and paine,</l>
+                  <l>While the Sword randevouz'd upon the plaine.</l>
+               </lg>
+               <lg>
+                  <head>(10)</head>
+                  <l>Thoſe Alabaſter bodies, whoſe rare faces</l>
+                  <l>Were dreſt with ſweetneſſe, fit for th'imbraces</l>
+                  <l>Of undefiled Love; now, now, alas,</l>
+                  <l>Thoſe flouriſhing flowers are but like the graſſe,</l>
+                  <l>The with'ring dying graſſe, parcht up with heat,</l>
+                  <l>Black as the Oven; thus for want of meat,</l>
+                  <l>Poore <hi>Sion</hi> is deform'd with ſinne and ſhame,</l>
+                  <l>While Warre and Famine hath eclips'd our fame.</l>
+               </lg>
+               <lg>
+                  <head>(11)</head>
+                  <l>Now wickedneſſe is ripe, now ſinne doth climbe,</l>
+                  <l>Now Pride aſpireth to the wings of Time;</l>
+                  <l>Now fire is kindled in th'Adulterers eye</l>
+                  <l>With hideous flames, whoſe wandring ſparkles flye</l>
+                  <l>To catch at ev'ry object which he may,</l>
+                  <l>Shewing black impudence in height of day,</l>
+                  <l>Deflowring Maidens, and defiling Wives,</l>
+                  <l>They make their mem'rie ſtink like their loath'd lives.</l>
+               </lg>
+               <pb n="72" facs="tcp:44961:42"/>
+               <lg>
+                  <head>(12)</head>
+                  <l>The valiant Prince, whoſe Royaltie did ſhine</l>
+                  <l>Through Clouds of Envie, now the foes combine</l>
+                  <l>By Death to dim his Glory, and the head</l>
+                  <l>Of the wiſe Elder is diſhonoured:</l>
+                  <l>Baſe Earth, theſe are thy gifts, and therefore wee</l>
+                  <l>Diſhonour Vertue, by our honouring thee;</l>
+                  <l>Let thine owne ſervants love thee, which doe ſpend</l>
+                  <l>Time in vaine folly, to an idle end.</l>
+               </lg>
+               <lg>
+                  <head>(13)</head>
+                  <l>How is illuſtrious <hi>Sion</hi> now declin'd</l>
+                  <l>From her high Dignitie? her young men grinde</l>
+                  <l>In the laborious Mill; the flowred Age,</l>
+                  <l>Whoſe ſtrength and valour taught them to ingage</l>
+                  <l>In fields of bloudie Warre, when the proud foe</l>
+                  <l>Could often witneſſe their owne overthrow,</l>
+                  <l>Though now we are in woe, our Children crie</l>
+                  <l>Under their heavie burthens; till they die.</l>
+               </lg>
+               <lg>
+                  <head>(14)</head>
+                  <l>Thoſe Lawes are cancell'd too, which ſometimes we</l>
+                  <l>Did memorize in immortall memorie;</l>
+                  <l>The holy Elder ſits not in the Gate,</l>
+                  <l>With Heav'ns authoritie, to predominate;</l>
+                  <l>Our mirth is alcumiz'd to funerall Songs,</l>
+                  <l>And like ſad Elegies, to tell our wrongs</l>
+                  <l>To other Nations, while our following teares</l>
+                  <l>Feeds our ſad eye-lids, as our mirth the eares.</l>
+               </lg>
+               <pb n="73" facs="tcp:44961:42"/>
+               <lg>
+                  <head>(15)</head>
+                  <l>The royall Tones which ſometimes was afforded</l>
+                  <l>From the rare Inſtrument, whoſe ſtrings recorded</l>
+                  <l>A well-meaſur'd evenneſſe, whoſe ſweet ſtory</l>
+                  <l>Emblem'd the harmonie of higheſt glory,</l>
+                  <l>And Loves eternall joy; now all is gone,</l>
+                  <l>Our Dance is ended, merriment is moane,</l>
+                  <l>Our Muſick metamorphos'd, and our mirth</l>
+                  <l>Sings this ſad Song; oh falſe deluding Earth.</l>
+               </lg>
+               <lg>
+                  <head>(16)</head>
+                  <l>Oh falſe deluding Earth, honour and pow'r,</l>
+                  <l>And all thy glory, is as a ſwift-run howre,</l>
+                  <l>Whoſe haſtie minutes, whoſe laborious ſand</l>
+                  <l>Doth run to over-take the wandring hand</l>
+                  <l>Of <hi>Sols</hi> beſhadow'd Dyall; thus our Crowne</l>
+                  <l>Of Earthly Royaltie, Time trampleth downe:</l>
+                  <l>Woe to our ſoules that we have ſinn'd, for why,</l>
+                  <l>Sinne makes up miſerie with mortalitie.</l>
+               </lg>
+               <lg>
+                  <head>(17)</head>
+                  <l>Therefore our hearts are ſad, therefore our ſleepe</l>
+                  <l>Forſakes our eye-lids, therefore doe we weepe;</l>
+                  <l>Therefore our ſoules are heavie, like a ſtone,</l>
+                  <l>And our bath'd boſomes Monuments of moane,</l>
+                  <l>Or Brazen Epitaphs, if ſuch there be,</l>
+                  <l>Which keepe the dead in laſting memorie;</l>
+                  <l>Leave me a while, my teares bid me adue,</l>
+                  <l>Mine eyes ere long ſhall doe as much for you.</l>
+               </lg>
+               <pb n="74" facs="tcp:44961:43"/>
+               <lg>
+                  <head>(18)</head>
+                  <l>Becauſe of the high mountaines which ſurround</l>
+                  <l>The faire <hi>Jeruſalem,</hi> my head is drown'd</l>
+                  <l>With my tormenting teares; that loftie Hill,</l>
+                  <l>From which the Traveller might looke his fill</l>
+                  <l>About the promis'd Land, when mid-day Sunne</l>
+                  <l>Survey'd the circled word; now Foxes runne</l>
+                  <l>Upon thoſe ruin'd Territories, which is</l>
+                  <l>In ſpight of Envie the worlds Paradiſe.</l>
+               </lg>
+               <lg>
+                  <head>(19)</head>
+                  <l>But ah, why doe we murmure? what, ſhall he</l>
+                  <l>That is but Duſt, diſpoſe Eternitie</l>
+                  <l>To his fond reaſoning? Lord, thou ſhalt remaine,</l>
+                  <l>Although mortalitie be counted vaine,</l>
+                  <l>And ſoone ſhall vaniſh, yet thou art for aye,</l>
+                  <l>Thou art not mortall, as the ſonnes of Day;</l>
+                  <l>And if thy Throne before all Time begun,</l>
+                  <l>Then thou ſhalt rule when Times ſwift race is run.</l>
+               </lg>
+               <lg>
+                  <head>(20)</head>
+                  <l>Wherefore ſo ſoone doſt thou forget us then?</l>
+                  <l>Or why ſo long are we, poore ſonnes of men,</l>
+                  <l>Forgotten of thee? wherefore didſt thou make us</l>
+                  <l>A pleaſant Paradiſe, and then forſake us?</l>
+                  <l>Can Soules ſtay here on Earth, when Death bereaves them?</l>
+                  <l>Can Bodies live, when once the Soule doth leave them?</l>
+                  <l>Can Mortals proſper then, when God doth dreſſe</l>
+                  <l>His face with anger, and forgetfulneſſe?</l>
+               </lg>
+               <pb n="75" facs="tcp:44961:43"/>
+               <lg>
+                  <head>(21)</head>
+                  <l>Turne us, O Lord, and we ſhall turne indeed;</l>
+                  <l>And if thou turne us not, our Land may bleed</l>
+                  <l>In after-Ages, ſince no pow'r at all</l>
+                  <l>Is in fond man, ſince man at firſt did fall;</l>
+                  <l>Renue thoſe ancient dayes, that proſp'rous time,</l>
+                  <l>When <hi>Sion</hi> once was ſeated in the prime</l>
+                  <l>Of Princely Royaltie; why haſt thou hurl'd</l>
+                  <l>Deformitie on the glory of the world?</l>
+               </lg>
+               <lg>
+                  <head>(22)</head>
+                  <l>But ah, what ſolace can poore <hi>Iſr'el</hi> ſpie</l>
+                  <l>Within this darkned Orb, when Heav'ns bright eye</l>
+                  <l>Is furrow'd up with frownes? if thou reject us,</l>
+                  <l>What Land can ſave us, or what Arme protect us?</l>
+                  <l>Oh, deareſt Lord, how doth thine anger paine</l>
+                  <l>Our fainting Soules? oh, how exceeding vaine</l>
+                  <l>Is the worlds dignitie? alas, our yeares</l>
+                  <l>Begun with troubles, and muſt end with teares.</l>
+               </lg>
+            </div>
+            <div n="5" type="contemplation">
+               <pb n="76" facs="tcp:44961:44"/>
+               <head>CONTEMPLATION V.</head>
+               <lg>
+                  <l>OUr lab'ring ſands are run, yet Reader ſtay,</l>
+                  <l>There is an Epilogue to the Tragick Play,</l>
+                  <l>And it ſhall not be tedious; yet what he</l>
+                  <l>That dips his Pen in Divine Poetrie,</l>
+                  <l>And on ſo rare a Subject, but muſt ſpend</l>
+                  <l>Some wearie houres ere his Worke will end.</l>
+                  <l>But ah, how dull is my dark <hi>Genius</hi> in this ſtory?</l>
+                  <l>I doe but veile ſweet Loves Celeſtiall Glory</l>
+                  <l>With a black Curtaine, while the holy Writ</l>
+                  <l>Is dreſt with Lines of my unworthy wit:</l>
+                  <l>Oh, I could rayle aloud at my dull Muſe</l>
+                  <l>For this her ignorance; I could accuſe</l>
+                  <l>My dulled Pen; my hand, that ere I tooke</l>
+                  <l>Such heav'nly Oracles, to make a Booke</l>
+                  <l>Of ſuch poore valuation; and oft times</l>
+                  <l>In anger I could rend theſe idle Rimes</l>
+                  <l>In thouſand pieces, for my Glaſſe is run,</l>
+                  <l>And I muſt end before I have begun.</l>
+                  <l>For ſhould I now my Subject here define,</l>
+                  <l>Each line's a ſentence, and each word a line</l>
+                  <l>In theſe high Oracles: but I doe wrong</l>
+                  <l>The Reader much, to keepe him off ſo long</l>
+                  <l>From the laſt Contemplation, which may ſmell</l>
+                  <l>Like coſtly Odours, ſome may like it well;</l>
+                  <l>Then pray good Reader, that it may be bleſt,</l>
+                  <l>Something He ſhew thee, ſtudie out the reſt.</l>
+                  <pb n="77" facs="tcp:44961:44"/>
+                  <l>It was a Cuſtome, when th'<hi>Arcadian</hi> Kings</l>
+                  <l>Would aske an Oracle for weightie things</l>
+                  <l>Of god <hi>Apollo;</hi> they durſt not preſume,</l>
+                  <l>Without a Cloud of Smoake, and rich Perfume,</l>
+                  <l>To ſmother their Oblations, with their Crie</l>
+                  <l>To urge the eares of the deafe Deitie.</l>
+                  <l>Theſe blinded Heathens have out-ſtript us; they,</l>
+                  <l>Although they knew no God, would ſometimes pray;</l>
+                  <l>When imminent dangers were ev'n at the dore,</l>
+                  <l>Each cry'd unto his god, each did implore</l>
+                  <l>Some help from unknown Powers; they would caſt</l>
+                  <l>Their bodies on their knees, they'd mourn and faſt,</l>
+                  <l>And yet could have no anſwer; all their paine</l>
+                  <l>Was labour loſt, their gods themſelves were vaine.</l>
+                  <l>But oh, deluded <hi>England,</hi> though thy knee</l>
+                  <l>Hath rockt dull man into a lethargie</l>
+                  <l>Of ſenſuall pleaſures, and haſt glut his ſence</l>
+                  <l>In a fooles paradiſe of Earths evidence;</l>
+                  <l>Though we have ſlept in thy imbracing armes,</l>
+                  <l>Dreaming of Heaven, till theſe numerous ſwarmes</l>
+                  <l>Of feares did come and wake us; yet we know,</l>
+                  <l>We have a God, that with one finall blow</l>
+                  <l>Can turne this ſpacious Univerſe aſide,</l>
+                  <l>And blaſt Hells Princes in their height of pride.</l>
+                  <l>Yet doe but marke how farre we are behinde</l>
+                  <l>The Heathen world, that were both deaf and blinde,</l>
+                  <l>Yea, dead in ignorance: we all can ſay,</l>
+                  <l>That prayer is prevalent, yet few doe pray,</l>
+                  <l>And fewer pray aright; few that can tell</l>
+                  <l>The trueſt way, few doe this dutie well,</l>
+                  <l>And thoſe that doe it beſt, how ſlack they be?</l>
+                  <l>Where is the man that prayeth conſtantly?</l>
+                  <l>Yet what more comely, then this ſweet devotion?</l>
+                  <l>Prayer is the wings that gives the Soule a motion</l>
+                  <l>To high eternitie, it is the hand</l>
+                  <l>That reacheth Cluſters from the promiſed Land</l>
+                  <pb n="78" facs="tcp:44961:45"/>
+                  <l>Of ſweet illuſtrious glory, it is the Armes</l>
+                  <l>Tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Soule weares againſt inſuing harmes.</l>
+                  <l>Prayer backt with Faith, is of farre greater force</l>
+                  <l>Then Warlike footmen o're the trampling Horſe;</l>
+                  <l>It conquers mightie Armies, wins the field,</l>
+                  <l>Strengthens the weake, and makes the mightie yield,</l>
+                  <l>Gives feet unto the lame, eyes to the blinde,</l>
+                  <l>Courage to Cowards, vertue to the minde,</l>
+                  <l>And honour for diſgrace, Credit for ſhame,</l>
+                  <l>In ſtead of bad reports, a righteous Name;</l>
+                  <l>It gives us food, when Famine doth commence,</l>
+                  <l>It blunts the Sword, and ſtops the Peſtilence;</l>
+                  <l>It gives the ſick recov'rie of his health,</l>
+                  <l>And ſends the poore man unexpected wealth,</l>
+                  <l>And what is more deſired, who can tell?</l>
+                  <l>It open'th Heaven, and it conquers Hell;</l>
+                  <l>It makes the Furies tremble, makes them flee</l>
+                  <l>To that low Vault of black eternitie,</l>
+                  <l>With all their Plots of miſchiefe, which the Arts</l>
+                  <l>Of Fiends contriv'd, it blunts the firie darts</l>
+                  <l>Of Satan, and it gaines a Royall Crowne</l>
+                  <l>Of endleſſe glory, and unmatcht renowne:</l>
+                  <l>And when the Earth is drie, like parched Graine,</l>
+                  <l>It flyes to Heaven, and it fetcheth Raine;</l>
+                  <l>And if the Corne be drown'd in water, then</l>
+                  <l>Prayer Jocks up thoſe ſtormie ſhowers againe:</l>
+                  <l>It calmes the ſwelling Ocean, and it tames</l>
+                  <l>The burning Fornace, and the firie flames;</l>
+                  <l>It ſtayes the Lyons force, without a wound</l>
+                  <l>It layes the ſonnes of <hi>Anak</hi> on the ground;</l>
+                  <l>It gives the tyred Soule a little breath,</l>
+                  <l>Gaines immortalitie, and conquers Death.</l>
+                  <l>And is <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>? Then for our troubled Times</l>
+                  <l>Here is a Copie of Prophetick Rimes,</l>
+                  <l>That tells the world there is a Death at hand</l>
+                  <l>Unto the foes of Heaven, and our Land:</l>
+                  <pb n="79" facs="tcp:44961:45"/>
+                  <l>Miſtake not, Reader, if at all thou lack</l>
+                  <l>The ſence hereof, this is no Almanack:</l>
+                  <l>I doe not ſpeake an end of <hi>Englands</hi> Warres,</l>
+                  <l>By the ſtrange motion of the wandring Starres,</l>
+                  <l>(Though it be plaine) it would not be ſo well,</l>
+                  <l>To write Predictions, or to paralell</l>
+                  <l>The wondrous courſe of Heaven, and each Starre:</l>
+                  <l>No, no, good Reader, 'tis no Kalender,</l>
+                  <l>For they may ſometimes lye; but even you,</l>
+                  <l>Whom it concernes, ſhall finde this Booke is true.</l>
+                  <l>The holy Prophet with inſpired skill</l>
+                  <l>Fore-told your Doome, he never us'd his Quill</l>
+                  <l>In vaine; what man ere found the Prophet ly'd?</l>
+                  <l>He writ your Ruine, when he propheſy'd,</l>
+                  <l>And then he pray'd for't too; if prayer may</l>
+                  <l>Not worke your fall, why did the Prophet pray?</l>
+                  <l>But to our Sceane, why are our ſoes ſo heartie</l>
+                  <l>In their darke deeds? there is a praying partie</l>
+                  <l>Waits at the gate of Heaven for a Seale,</l>
+                  <l>To binde the Furies up in burning Steele,</l>
+                  <l>And ſend the foes of Heav'n to travell on</l>
+                  <l>Fearefull <hi>Cocytus,</hi> and black <hi>Phleaeton,</hi>
+                  </l>
+                  <l>And the infernall <hi>Styae;</hi> then you ſhall ſhare</l>
+                  <l>In endleſſe torments of the Churches Prayer.</l>
+                  <l>Nay, you will know the price of Prayer, before</l>
+                  <l>That Death hath quite wip'd out Dame Natures Skore,</l>
+                  <l>When your ſick ſoules upon your lips ſhall ſit,</l>
+                  <l>And Death ſhall 'reſt you with a high Court Writ,</l>
+                  <l>And when thy feet and han<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> by Death are bound,</l>
+                  <l>And all about thee ſeeme to dance the Round,</l>
+                  <l>And when thy envious eyes are almoſt blinde,</l>
+                  <l>And when Hells hort or hath poſſeſt thy minde</l>
+                  <l>With their tormenting feares, and when the Bell</l>
+                  <l>Shall tell thy tort'ring Conſcience, that new Hell</l>
+                  <l>Is readie to receive thee; when the thing.</l>
+                  <l>Thy couz'ned Soule did love, are o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ings</l>
+                  <pb n="80" facs="tcp:44961:46"/>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> flye away; when they ſhall ſell and pawne</l>
+                  <l>Thy <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>pt-up goods, and when the Curtaine's drawne,</l>
+                  <l>And all thy friends ſhall leave thee, with a Crie,</l>
+                  <l>And Death begins to cloſe thy darkned eye.</l>
+                  <l>How would thy Soule then prize one houre, to pray,</l>
+                  <l>And give a thouſand worlds, that Death would ſtay</l>
+                  <l>His ſummons but a while, and let him ſpeake</l>
+                  <l>A word to Heaven, though his words be weake?</l>
+                  <l>But now it is too late: alas, the eares</l>
+                  <l>Of Heaven's ſhut, and neither cryes nor teares</l>
+                  <l>Cannot availe: what can the ſinner ſay?</l>
+                  <l>His heart is hardned, and he cannot pray:</l>
+                  <l>Oh, that he could! then one repenting ſtory</l>
+                  <l>Of faithfull pray'r, turnes miſerie to glory;</l>
+                  <l>And then an <hi>Habeas corpus</hi> comes apace,</l>
+                  <l>To bring the Pris'ner to another place;</l>
+                  <l>This changes Death for Life, all miſerie</l>
+                  <l>Into a Palace of Eternitie,</l>
+                  <l>Makes him to be Loves Monument; beſide,</l>
+                  <l>Death is no Jayler, but a gentle Guide.</l>
+                  <l>If Prayer have this power, then why am I</l>
+                  <l>So long in telling you their deſtinie,</l>
+                  <l>That are the bloudie Actors of theſe Times,</l>
+                  <l>And ſonnes of Horror? why doe theſe my Rimes</l>
+                  <l>Wrong thus your patience, and my wearie Pen</l>
+                  <l>Not character the rudeneſſe of theſe men?</l>
+                  <l>Ile tell you why, indeed I did intend,</l>
+                  <l>But know not to begin, nor how to end.</l>
+                  <l>Is the world mad? doe giddie mortalls ſee</l>
+                  <l>Their Soules conſiſt of immortalitie;</l>
+                  <l>And ſhall th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhort liv'd Stage, this tranſitorie</l>
+                  <l>Unworthy <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, ſtill be the worldlings glory?</l>
+                  <l>Why is the Land in ſuch a hurry? why</l>
+                  <l>Doth Envie lodge in ev'ry loftie eye?</l>
+                  <l>Why are our enemies of their wits bereaven?</l>
+                  <l>Why, in their furie, doe they rage at Heaven?</l>
+                  <pb n="81" facs="tcp:44961:46"/>
+                  <l>And why thus ruine Earth? and thinke it well,</l>
+                  <l>To cut their paſſage to the Gates of Hell</l>
+                  <l>With their bloud-thirſtie Blades? what ſhall I ſay?</l>
+                  <l>There is a godly partie that doth pray,</l>
+                  <l>My foes, for your ſad Ruine; theſe are them</l>
+                  <l>That are the Citizens of <hi>Hieruſalem,</hi>
+                  </l>
+                  <l>And the worlds wondrous Warriors, whoſe cleane hands</l>
+                  <l>Are winged battlements for theſe weakned Lands.</l>
+                  <l>By ſuch as theſe, th' <hi>Aſſyrians</hi> mightie Hoaſt,</l>
+                  <l>Whoſe Gen'rall blaſphemed Heav'n, and did boaſt</l>
+                  <l>Of Fortitude and Valour, yet did run</l>
+                  <l>With feare and horror, ere the fight begun;</l>
+                  <l>And yet they had good cauſe to runne and ride,</l>
+                  <l>A hundred, foureſcore, and five thouſand dy'd</l>
+                  <l>That diſmall ev'ning, by an unſeene Arme,</l>
+                  <l>And Death did triumph in that num'rous ſwarme</l>
+                  <l>That meaſur'd out their graves; others did flie,</l>
+                  <l>When none purſu'd them, with a mightie Crie.</l>
+                  <l>'Twas Pray'r deliv'red <hi>Paul,</hi> the Churches paine</l>
+                  <l>Set <hi>Peter</hi> looſe, knockt off his gingling Chaine,</l>
+                  <l>And ſaved <hi>Barnabas:</hi> if it be ſo,</l>
+                  <l>Then this fore-tells our enemies overthrow;</l>
+                  <l>Sing, Drinke, and Sweare, Curſe, Vapour, Spoyle, and Play,</l>
+                  <l>The Church ere long will keepe a holy-day</l>
+                  <l>In memorie of your Ruine, for mine eye</l>
+                  <l>Beholds the Day is neere when you ſhall dye,</l>
+                  <l>And your black Actions fall, 'tis very neere,</l>
+                  <l>In a darke Cloud; my foes you well may feare,</l>
+                  <l>'Tis even at your doores, I am ſure you ſhall</l>
+                  <l>Have both a ſuddaine and a finall fall;</l>
+                  <l>And in your graves, when you ſhall ſleepe in duſt,</l>
+                  <l>Your glory dies, your Brazen Records ruſt,</l>
+                  <l>Like to your rotten Names, you ſhall lay downe</l>
+                  <l>A wearie body, and a wicked Crowne:</l>
+                  <l>Then a weake Child may travaile by your grave,</l>
+                  <l>Nay, trample on your honour, yet not have</l>
+                  <pb n="82" facs="tcp:44961:47"/>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> at his boſome; you will be</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Death lulls you to eternitie.</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> this all proud man can ever doe?</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>owning Envie, ſleepe in aſhes too.</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> oh, had now my hand an Eagles Quill,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> write high Rhethorick, or had I skill</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o picture thoſe rare pleaſures in my Lines,</l>
+                  <l>Or paint thoſe orient beames that ever ſhines</l>
+                  <l>In Loves illuſtrious Glory; I could ſpend</l>
+                  <l>Perpetuall Ages, ere I made an end</l>
+                  <l>Of embling Immortalitie for thoſe</l>
+                  <l>That are the friends of Heaven, and the worlds ſoes;</l>
+                  <l>Thoſe brave heroick hearts, that ever are</l>
+                  <l>Above the Clouds, upon the wings of Prayer</l>
+                  <l>And loftie Contemplation; thoſe who feares</l>
+                  <l>Sinnes guilt and horror, and with ſilent teares</l>
+                  <l>Doe bathe their amorous eye-lids: but Ile miſſe</l>
+                  <l>The Caract'ring ſo rare a Paradiſe,</l>
+                  <l>Leſt I am loſt, and you too ſoone be drown'd,</l>
+                  <l>Sweet Readers, in amazement, and I wound</l>
+                  <l>Your boſomes with Loves arrowes, leſt your eye</l>
+                  <l>Should ſlumber too much in Loves Lullaby:</l>
+                  <l>Who can deſcribe their glory, leſt he be</l>
+                  <l>Himſelfe wrapt firſt into eternitie?</l>
+                  <l>And ſo deare Land adue, let Loves ſweet Boy</l>
+                  <l>Crowne thee with harmonie of Peace and Joy,</l>
+                  <l>And pureſt milke-white Robes, caſt off thy moanes,</l>
+                  <l>And let thy voyce utter ſome raviſht Tones,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a well-meaſur'd evenneſſe; let thy dayes</l>
+                  <l>Be paſt in puritie, and ſpent in prayſe:</l>
+                  <l>Oh doe but baniſh ſinne, then a few yeares</l>
+                  <l>Will weare out quite the mem'rie of thy feares;</l>
+                  <l>Then Heav'n will puffe away this darkned ſtorme,</l>
+                  <l>And arch thy browes in a victorious forme,</l>
+                  <l>Give thee all Royaltie, and thou ſhalt ride</l>
+                  <l>In Honours Chariot, and be dignify'd;</l>
+                  <pb n="83" facs="tcp:44961:47"/>
+                  <l>Adorne thy beautious face with Vertues Gem,</l>
+                  <l>Impale thy glory with a Diadem:</l>
+                  <l>For preſent times thou ſhalt have Leſſons ſent,</l>
+                  <l>For after-Ages a learn'd Preſident;</l>
+                  <l>He will not leave thee, if thy gentle eye</l>
+                  <l>Can learne the part of the Spouſe loyaltie.</l>
+                  <l>
+                     <hi>England</hi> farewell, goe deareſt Nurſe adue,</l>
+                  <l>Forget not Heaven, he will thinke of you;</l>
+                  <l>His lovely Armes thy body ſhall ſurround,</l>
+                  <l>If thy archt browes be with ſweet Vertue crown'd:</l>
+                  <l>Though I may fall, yet let this Infant be</l>
+                  <l>Thy Guider, and a Monument for me.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44961:48" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
